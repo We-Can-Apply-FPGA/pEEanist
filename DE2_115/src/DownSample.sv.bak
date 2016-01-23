@@ -1,0 +1,21 @@
+module DownSample(
+	input i_clk,
+	input i_rst_n,
+	
+	output o_clk
+);
+
+always_comb begin
+	fft_cnt_w = fft_cnt_r;
+	if (i_valid) fft_cnt_w = (fft_cnt_r + 1) % 1024;
+end
+
+always_ff @(negedge i_clk or negedge i_rst_n) begin
+	if (!i_rst_n) begin
+		fft_cnt_r <= 0;
+	end
+	else begin
+		fft_cnt_r <= fft_cnt_w;
+	end
+end
+endmodule

@@ -1,0 +1,57 @@
+module Synthesizer(
+	input i_clk,
+	input i_rst_n,
+	input [17:0] i_note,
+	output signed [23:0] o_sound
+);
+
+parameter clock = 12000000;
+logic [20:0] freq[3:0];
+assign freq[0] = clock / 220;
+assign freq[1] = clock / 233;
+assign freq[2] = clock / 247;
+assign freq[3] = clock / 262;
+
+logic [3:0][31:0] cnt_r, cnt_w;
+logic [5:0] note_cnt;
+
+always_comb begin
+	o_sound = 0;
+	note_cnt = i_note[0] + i_note[1] + i_note[2] + i_note[3];
+	if (note_cnt != 0) begin
+		o_sound = ((i_note[0] && cnt_r[0] <  freq[0] / 2) ? (1<<20) / note_cnt : 0) -
+		          ((i_note[0] && cnt_r[0] >= freq[0] / 2) ? (1<<20) / note_cnt : 0) +
+					 ((i_note[1] && cnt_r[1] <  freq[1] / 2) ? (1<<20) / note_cnt : 0) -
+		          ((i_note[1] && cnt_r[1] >= freq[1] / 2) ? (1<<20) / note_cnt : 0) +
+					 ((i_note[2] && cnt_r[2] <  freq[2] / 2) ? (1<<20) / note_cnt : 0) -
+		          ((i_note[2] && cnt_r[2] >= freq[2] / 2) ? (1<<20) / note_cnt : 0) +
+					 ((i_note[3] && cnt_r[3] <  freq[3] / 2) ? (1<<20) / note_cnt : 0) -
+		          ((i_note[3] && cnt_r[3] >= freq[3] / 2) ? (1<<20) / note_cnt : 0) ;
+	end
+	else o_sound = 0;
+	if (cnt_r[0] + 1 == freq[0]) cnt_w[0] = 0;
+	else cnt_w[0] = cnt_r[0] + 1;
+	if (cnt_r[1] + 1 == freq[1]) cnt_w[1] = 0;
+	else cnt_w[1] = cnt_r[1] + 1;
+	if (cnt_r[2] + 1 == freq[2]) cnt_w[2] = 0;
+	else cnt_w[2] = cnt_r[2] + 1;
+	if (cnt_r[3] + 1 == freq[3]) cnt_w[3] = 0;
+	else cnt_w[3] = cnt_r[3] + 1;
+end
+
+always_ff @(negedge i_clk or negedge i_rst_n) begin
+	if (!i_rst_n) begin
+		cnt_r[0] <= 0;
+		cnt_r[1] <= 0;
+		cnt_r[2] <= 0;
+		cnt_r[3] <= 0;
+	end
+	else if (!i_clk) begin
+		cnt_r[0] <= cnt_w[0];
+		cnt_r[1] <= cnt_w[1];
+		cnt_r[2] <= cnt_w[2];
+		cnt_r[3] <= cnt_w[3];
+	end
+end
+
+endmodule

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="IORD"/>
+			<item value="PIO_LED"/>
+			<item value="io_"/>
+			<item value="LED"/>
+			<item value="LED\"/>
+			<item value="led"/>
+			<item value="Led"/>
+			<item value="open"/>
+		</list>
+		<list key="replacehistory">
+			<item value="LCD_16207_0_BASE"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="289" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="488" key="DIALOG_HEIGHT"/>
+		<item value="932" key="DIALOG_X_ORIGIN"/>
+		<item value="405" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

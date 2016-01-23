@@ -1,0 +1,32 @@
+#include <unistd.h>
+#include <stdio.h>
+#include "system.h"
+//#include "altera_up_avalon_character_lcd.h"
+
+
+#define _LED
+typedef struct {
+	volatile unsigned long int DATA;
+	volatile unsigned long int DIRECTION;
+	volatile unsigned long int INTERRUPT_MASK;
+	volatile unsigned long int EDGE_CAPTURE;
+}PIO_T;
+
+#ifdef _LED
+#define LED ((PIO_T *)(PIO_LED_BASE))
+#endif
+
+
+int main(){
+	int n;
+	printf("BEGIN %d\n", LED->DIRECTION);
+	LED->DIRECTION = ((1<<8) - 1) + (1<<16) + (1<<17);
+	while (1) {
+		scanf("%d", &n);
+		printf("%d\n", n);
+		LED->DATA = (1 << n) | (1<<17);
+		printf("%d\n", LED->DATA);
+		//printf("%d\n", LED->DATA & (1<<8));
+	}
+	return 0;
+}

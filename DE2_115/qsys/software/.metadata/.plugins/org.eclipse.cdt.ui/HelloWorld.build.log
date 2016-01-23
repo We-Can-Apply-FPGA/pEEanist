@@ -1,0 +1,17 @@
+15:06:29 **** Incremental Build of configuration Nios II for project HelloWorld ****
+make all 
+Info: Building ../HelloWorld_bsp/
+make --no-print-directory -C ../HelloWorld_bsp/
+[BSP build complete]
+Info: Compiling hello_world_small.c to obj/default/hello_world_small.o
+nios2-elf-gcc -xc -MP -MMD -c -I../HelloWorld_bsp//HAL/inc -I../HelloWorld_bsp/ -I../HelloWorld_bsp//drivers/inc  -pipe -D__hal__ -DALT_NO_C_PLUS_PLUS -DALT_NO_CLEAN_EXIT -D'exit(a)=_exit(a)' -DALT_NO_EXIT -DALT_USE_DIRECT_DRIVERS -DALT_NO_INSTRUCTION_EMULATION -DALT_USE_SMALL_DRIVERS -DSMALL_C_LIB -DALT_SINGLE_THREADED    -Os -g -Wall   -mno-hw-div -mno-hw-mul -mno-hw-mulx  -o obj/default/hello_world_small.o hello_world_small.c
+hello_world_small.c: In function 'main':
+hello_world_small.c:31:10: error: 'lcd' undeclared (first use in this function)
+Makefile:775: recipe for target 'obj/default/hello_world_small.o' failed
+  fprintf(lcd,"I love NIOS II!\n");
+          ^
+hello_world_small.c:31:10: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [obj/default/hello_world_small.o] Error 1
+
+15:06:29 Build Finished (took 125ms)
+

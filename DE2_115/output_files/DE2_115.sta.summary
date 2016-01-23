@@ -1,0 +1,221 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'AUD_BCLK'
+Slack : -1.443
+TNS   : -36.773
+
+Type  : Slow 1200mV 85C Model Setup 'core|pll|sd1|pll7|clk[3]'
+Slack : 9994.383
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'AUD_ADCLRCK'
+Slack : 31247.572
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'AUD_BCLK'
+Slack : 0.374
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'core|pll|sd1|pll7|clk[3]'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'AUD_ADCLRCK'
+Slack : 2.008
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'AUD_ADCLRCK'
+Slack : -6.210
+TNS   : -6.210
+
+Type  : Slow 1200mV 85C Model Recovery 'core|pll|sd1|pll7|clk[3]'
+Slack : -4.537
+TNS   : -198.541
+
+Type  : Slow 1200mV 85C Model Recovery 'AUD_BCLK'
+Slack : -4.011
+TNS   : -205.387
+
+Type  : Slow 1200mV 85C Model Removal 'AUD_BCLK'
+Slack : 2.194
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'core|pll|sd1|pll7|clk[3]'
+Slack : 4.019
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'AUD_ADCLRCK'
+Slack : 6.444
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.819
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLOCK3_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'AUD_BCLK'
+Slack : 41.132
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'core|pll|sd1|pll7|clk[3]'
+Slack : 4999.708
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'AUD_ADCLRCK'
+Slack : 15624.625
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'AUD_BCLK'
+Slack : -1.313
+TNS   : -33.611
+
+Type  : Slow 1200mV 0C Model Setup 'core|pll|sd1|pll7|clk[3]'
+Slack : 9994.803
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'AUD_ADCLRCK'
+Slack : 31247.768
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'core|pll|sd1|pll7|clk[3]'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'AUD_BCLK'
+Slack : 0.369
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'AUD_ADCLRCK'
+Slack : 1.838
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'AUD_ADCLRCK'
+Slack : -5.594
+TNS   : -5.594
+
+Type  : Slow 1200mV 0C Model Recovery 'core|pll|sd1|pll7|clk[3]'
+Slack : -4.047
+TNS   : -175.940
+
+Type  : Slow 1200mV 0C Model Recovery 'AUD_BCLK'
+Slack : -3.613
+TNS   : -186.641
+
+Type  : Slow 1200mV 0C Model Removal 'AUD_BCLK'
+Slack : 2.051
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'core|pll|sd1|pll7|clk[3]'
+Slack : 3.650
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'AUD_ADCLRCK'
+Slack : 5.901
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.799
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLOCK3_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'AUD_BCLK'
+Slack : 41.218
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'core|pll|sd1|pll7|clk[3]'
+Slack : 4999.709
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'AUD_ADCLRCK'
+Slack : 15624.682
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'AUD_BCLK'
+Slack : -0.437
+TNS   : -10.310
+
+Type  : Fast 1200mV 0C Model Setup 'core|pll|sd1|pll7|clk[3]'
+Slack : 9997.196
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'AUD_ADCLRCK'
+Slack : 31248.847
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'AUD_BCLK'
+Slack : 0.023
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'core|pll|sd1|pll7|clk[3]'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'AUD_ADCLRCK'
+Slack : 0.966
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'AUD_ADCLRCK'
+Slack : -2.347
+TNS   : -2.347
+
+Type  : Fast 1200mV 0C Model Recovery 'core|pll|sd1|pll7|clk[3]'
+Slack : -1.812
+TNS   : -77.935
+
+Type  : Fast 1200mV 0C Model Recovery 'AUD_BCLK'
+Slack : -1.506
+TNS   : -72.829
+
+Type  : Fast 1200mV 0C Model Removal 'AUD_BCLK'
+Slack : 0.752
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'core|pll|sd1|pll7|clk[3]'
+Slack : 1.911
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'AUD_ADCLRCK'
+Slack : 2.732
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 9.400
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK2_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLOCK3_50'
+Slack : 16.000
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'AUD_BCLK'
+Slack : 40.628
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'core|pll|sd1|pll7|clk[3]'
+Slack : 4999.780
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'AUD_ADCLRCK'
+Slack : 15624.196
+TNS   : 0.000
+
+------------------------------------------------------------

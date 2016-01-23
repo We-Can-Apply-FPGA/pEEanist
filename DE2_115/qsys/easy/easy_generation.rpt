@@ -1,0 +1,41 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate /home/quartus/nios/DE2_115/qsys/easy.qsys --block-symbol-file --output-directory=/home/quartus/nios/DE2_115/qsys/easy --family="Cyclone IV E" --part=EP4CE115F29C7
+Progress: Loading qsys/easy.qsys
+Progress: Reading input file
+Progress: Adding clk_0 [clock_source 15.1]
+Progress: Parameterizing module clk_0
+Progress: Adding pll [altpll 15.1]
+Progress: Parameterizing module pll
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Warning: easy.pll: pll.areset_conduit must be exported, or connected to a matching conduit.
+Warning: easy.pll: pll.locked_conduit must be exported, or connected to a matching conduit.
+Warning: easy.pll: pll.phasedone_conduit must be exported, or connected to a matching conduit.
+Warning: easy.pll: pll.pll_slave must be connected to an Avalon-MM master
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate /home/quartus/nios/DE2_115/qsys/easy.qsys --synthesis=VERILOG --output-directory=/home/quartus/nios/DE2_115/qsys/easy/synthesis --family="Cyclone IV E" --part=EP4CE115F29C7
+Progress: Loading qsys/easy.qsys
+Progress: Reading input file
+Progress: Adding clk_0 [clock_source 15.1]
+Progress: Parameterizing module clk_0
+Progress: Adding pll [altpll 15.1]
+Progress: Parameterizing module pll
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Warning: easy.pll: pll.areset_conduit must be exported, or connected to a matching conduit.
+Warning: easy.pll: pll.locked_conduit must be exported, or connected to a matching conduit.
+Warning: easy.pll: pll.phasedone_conduit must be exported, or connected to a matching conduit.
+Warning: easy.pll: pll.pll_slave must be connected to an Avalon-MM master
+Info: easy: Generating easy "easy" for QUARTUS_SYNTH
+Info: pll: "easy" instantiated altpll "pll"
+Info: rst_controller: "easy" instantiated altera_reset_controller "rst_controller"
+Info: easy: Done "easy" with 3 modules, 5 files
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis

@@ -1,0 +1,6 @@
+16:09:35 **** Clean-only build of configuration Nios II for project MemorySmall ****
+make clean 
+[MemorySmall clean complete]
+
+16:09:35 Build Finished (took 77ms)
+

@@ -1,0 +1,38 @@
+#include <unistd.h>
+#include <stdio.h>
+#include "system.h"
+//#include "altera_up_avalon_character_lcd.h"
+
+
+#define _LED
+typedef struct {
+	volatile unsigned int DATA;
+	volatile unsigned long int DIRECTION;
+	volatile unsigned long int INTERRUPT_MASK;
+	volatile unsigned long int EDGE_CAPTURE;
+}PIO_T;
+
+#ifdef _LED
+#define LED ((PIO_T *)(PIO_LED_BASE))
+#endif
+
+
+int main(){
+	FILE *lcd = fopen(LCD_NAME, "w");
+	if (lcd == NULL) {
+		fprintf(stderr, "Cannot open LCD");
+		return 0;
+	}
+	fprintf(lcd, "HELLO WORLD\n");
+	fclose(lcd);
+	int cnt = 0;
+	while (1) {
+		LED->DATA = cnt;
+		usleep(10000);
+		LED->DATA = 0;
+		usleep(10000);
+		cnt ++;
+		cnt %= 128;
+	}
+	return 0;
+}

@@ -1,0 +1,28 @@
+Info: Starting: Create block symbol file (.bsf)
+Info: qsys-generate /home/quartus/nios/DE2_115/FFT.qsys --block-symbol-file --output-directory=/home/quartus/nios/DE2_115/FFT --family="Cyclone IV E" --part=EP4CE115F29C7
+Progress: Loading DE2_115/FFT.qsys
+Progress: Reading input file
+Progress: Adding fft_ii_0 [altera_fft_ii 15.1]
+Progress: Parameterizing module fft_ii_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: qsys-generate succeeded.
+Info: Finished: Create block symbol file (.bsf)
+Info: 
+Info: Starting: Create HDL design files for synthesis
+Info: qsys-generate /home/quartus/nios/DE2_115/FFT.qsys --synthesis=VERILOG --output-directory=/home/quartus/nios/DE2_115/FFT/synthesis --family="Cyclone IV E" --part=EP4CE115F29C7
+Progress: Loading DE2_115/FFT.qsys
+Progress: Reading input file
+Progress: Adding fft_ii_0 [altera_fft_ii 15.1]
+Progress: Parameterizing module fft_ii_0
+Progress: Building connections
+Progress: Parameterizing connections
+Progress: Validating
+Progress: Done reading input file
+Info: FFT: Generating FFT "FFT" for QUARTUS_SYNTH
+Info: fft_ii_0: "FFT" instantiated altera_fft_ii "fft_ii_0"
+Info: FFT: Done "FFT" with 2 modules, 106 files
+Info: qsys-generate succeeded.
+Info: Finished: Create HDL design files for synthesis

@@ -1,0 +1,1836 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+                              obj/default/hello_world.o (puts)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o) (strlen)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o) (__sfvwrite_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o) (_impure_ptr)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o) (_malloc_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o) (memchr)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o) (memcpy)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o) (memmove)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o) (__swsetup_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o) (_fflush_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o) (__sinit)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o) (_free_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o) (_fwalk)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o) (errno)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o) (memset)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o) (__sread)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o) (_write_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o) (_close_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o) (_fclose_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o) (_fstat_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o) (_isatty_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o) (_lseek_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o) (_read_r)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o) (__divsi3)
+../Haozi_bsp//libhal_bsp.a(alt_close.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o) (close)
+../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_close.o) (alt_fd_list)
+../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_close.o) (alt_errno)
+../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o) (fstat)
+../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o) (isatty)
+../Haozi_bsp//libhal_bsp.a(alt_load.o)
+                              ../Haozi_bsp//obj/HAL/src/crt0.o (alt_load)
+../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o) (lseek)
+../Haozi_bsp//libhal_bsp.a(alt_main.o)
+                              ../Haozi_bsp//obj/HAL/src/crt0.o (alt_main)
+../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o) (__malloc_lock)
+../Haozi_bsp//libhal_bsp.a(alt_read.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o) (read)
+../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_close.o) (alt_release_fd)
+../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o) (sbrk)
+../Haozi_bsp//libhal_bsp.a(alt_write.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o) (write)
+../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_main.o) (alt_irq_init)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_init)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                              ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_ioctl)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o) (altera_avalon_lcd_16207_init)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o) (altera_avalon_lcd_16207_write_fd)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o) (alt_avalon_timer_sc_init)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o) (altera_avalon_uart_read_fd)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o) (altera_avalon_uart_init)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+                              ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o) (altera_avalon_uart_read)
+../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+                              ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o) (altera_avalon_uart_write)
+../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+                              ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o) (alt_alarm_start)
+../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_main.o) (_do_ctors)
+../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_main.o) (_do_dtors)
+../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+                              ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o) (alt_ic_isr_register)
+../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_main.o) (alt_io_redirect)
+../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o) (alt_irq)
+../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_iic.o) (alt_irq_active)
+../Haozi_bsp//libhal_bsp.a(alt_open.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o) (open)
+../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+                              ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o) (_alt_tick_rate)
+../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+                              ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o) (usleep)
+../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_usleep.o) (alt_busy_sleep)
+../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_open.o) (alt_find_dev)
+../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_open.o) (alt_find_file)
+../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_open.o) (alt_get_fd)
+../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o) (alt_icache_flush)
+../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o) (alt_instruction_exception_entry)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_main.o) (atexit)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+                              ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o) (__ctype_ptr__)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_main.o) (exit)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+                              ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o) (memcmp)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o) (__call_exitprocs)
+../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+                              /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+alt_irq             0x100             ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+errno               0x4               /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+sdram            0x0000000008000000 0x0000000008000000
+sram             0x0000000010200000 0x0000000000200000
+reset            0x0000000010408000 0x0000000000000020
+onchip_memory    0x0000000010408020 0x0000000000004fe0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ../Haozi_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/hello_world.o
+LOAD /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libstdc++.a
+LOAD /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libm.a
+LOAD /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a
+START GROUP
+LOAD /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a
+LOAD /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a
+LOAD ../Haozi_bsp//libhal_bsp.a
+LOAD /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libm.a
+END GROUP
+LOAD /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a
+                0x0000000008000000                __alt_mem_sdram = 0x8000000
+                0x0000000010200000                __alt_mem_sram = 0x10200000
+                0x0000000010408000                __alt_mem_onchip_memory = 0x10408000
+
+.entry          0x0000000010408000       0x20
+ *(.entry)
+ .entry         0x0000000010408000       0x20 ../Haozi_bsp//obj/HAL/src/crt0.o
+                0x0000000010408000                __reset
+
+.exceptions     0x0000000010408020      0x220 load address 0x0000000008000000
+                0x0000000010408020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x0000000010408020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x0000000010408020        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+                0x0000000010408020                alt_irq_entry
+ .exceptions.entry.label
+                0x0000000010408020        0x0 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+                0x0000000010408020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x0000000010408020       0x54 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x0000000010408074       0x10 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x0000000010408084        0x4 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x0000000010408088        0x4 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x000000001040808c        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x000000001040808c        0x8 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x0000000010408094       0x14 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x00000000104080a8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x00000000104080a8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x00000000104080a8       0x54 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x00000000104080fc       0xd0 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+                0x00000000104080fc                alt_irq_handler
+ .exceptions    0x00000000104081cc       0x74 ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x00000000104081cc                alt_instruction_exception_entry
+                0x0000000010408240                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x0000000008000000                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x0000000008000220     0x6ee4
+                0x0000000008000220                PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000008000220       0x4c ../Haozi_bsp//obj/HAL/src/crt0.o
+                0x0000000008000220                _start
+ .text          0x000000000800026c       0x34 obj/default/hello_world.o
+                0x000000000800026c                main
+ .text          0x00000000080002a0        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .text._puts_r  0x00000000080002a0       0xa8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+                0x00000000080002a0                _puts_r
+ .text.puts     0x0000000008000348       0x14 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+                0x0000000008000348                puts
+ .text          0x000000000800035c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .text.strlen   0x000000000800035c       0x98 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+                0x000000000800035c                strlen
+ .text          0x00000000080003f4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x00000000080003f4      0x4c0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+                0x00000000080003f4                __sfvwrite_r
+ .text          0x00000000080008b4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+ .text          0x00000000080008b4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x00000000080008b4      0x7a8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+                0x00000000080008b4                _malloc_r
+ .text          0x000000000800105c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .text.memchr   0x000000000800105c       0xe8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+                0x000000000800105c                memchr
+ .text          0x0000000008001144        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000008001144      0x138 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+                0x0000000008001144                memcpy
+ .text          0x000000000800127c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .text.memmove  0x000000000800127c      0x15c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+                0x000000000800127c                memmove
+ .text          0x00000000080013d8        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x00000000080013d8      0x568 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+                0x00000000080013d8                _realloc_r
+ .text          0x0000000008001940        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000008001940       0x54 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+                0x0000000008001940                _sbrk_r
+ .text          0x0000000008001994        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .text.__swsetup_r
+                0x0000000008001994      0x154 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+                0x0000000008001994                __swsetup_r
+ .text          0x0000000008001ae8        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .text.__sflush_r
+                0x0000000008001ae8      0x208 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+                0x0000000008001ae8                __sflush_r
+ .text._fflush_r
+                0x0000000008001cf0       0x5c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+                0x0000000008001cf0                _fflush_r
+ .text.fflush   0x0000000008001d4c       0x30 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+                0x0000000008001d4c                fflush
+ .text          0x0000000008001d7c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000008001d7c        0x8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000008001d84        0x8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000008001d8c        0xc /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x0000000008001d8c                _cleanup_r
+ .text.__sinit.part.1
+                0x0000000008001d98      0x19c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x0000000008001f34       0x68 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x0000000008001f34                __sfmoreglue
+ .text.__sfp    0x0000000008001f9c      0x118 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x0000000008001f9c                __sfp
+ .text._cleanup
+                0x00000000080020b4       0x18 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x00000000080020b4                _cleanup
+ .text.__sinit  0x00000000080020cc       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x00000000080020cc                __sinit
+ .text.__sfp_lock_acquire
+                0x00000000080020dc        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x00000000080020dc                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x00000000080020e0        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x00000000080020e0                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x00000000080020e4        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x00000000080020e4                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x00000000080020e8        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x00000000080020e8                __sinit_lock_release
+ .text.__fp_lock_all
+                0x00000000080020ec       0x18 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x00000000080020ec                __fp_lock_all
+ .text.__fp_unlock_all
+                0x0000000008002104       0x18 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                0x0000000008002104                __fp_unlock_all
+ .text          0x000000000800211c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x000000000800211c      0x124 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+                0x000000000800211c                _malloc_trim_r
+ .text._free_r  0x0000000008002240      0x2f0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+                0x0000000008002240                _free_r
+ .text          0x0000000008002530        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000008002530       0xc4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+                0x0000000008002530                _fwalk
+ .text._fwalk_reent
+                0x00000000080025f4       0xc4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+                0x00000000080025f4                _fwalk_reent
+ .text          0x00000000080026b8        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+ .text          0x00000000080026b8        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .text.__smakebuf_r
+                0x00000000080026b8      0x1b8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+                0x00000000080026b8                __smakebuf_r
+ .text          0x0000000008002870        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .text.memset   0x0000000008002870      0x124 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+                0x0000000008002870                memset
+ .text          0x0000000008002994        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .text.__sread  0x0000000008002994       0x54 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+                0x0000000008002994                __sread
+ .text.__seofread
+                0x00000000080029e8        0x8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+                0x00000000080029e8                __seofread
+ .text.__swrite
+                0x00000000080029f0       0x7c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+                0x00000000080029f0                __swrite
+ .text.__sseek  0x0000000008002a6c       0x5c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+                0x0000000008002a6c                __sseek
+ .text.__sclose
+                0x0000000008002ac8        0x8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+                0x0000000008002ac8                __sclose
+ .text          0x0000000008002ad0        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .text._write_r
+                0x0000000008002ad0       0x5c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+                0x0000000008002ad0                _write_r
+ .text          0x0000000008002b2c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .text._close_r
+                0x0000000008002b2c       0x54 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+                0x0000000008002b2c                _close_r
+ .text          0x0000000008002b80        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .text._fclose_r
+                0x0000000008002b80       0xf0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+                0x0000000008002b80                _fclose_r
+ .text.fclose   0x0000000008002c70       0x14 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+                0x0000000008002c70                fclose
+ .text          0x0000000008002c84        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x0000000008002c84       0x58 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+                0x0000000008002c84                _fstat_r
+ .text          0x0000000008002cdc        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x0000000008002cdc       0x54 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+                0x0000000008002cdc                _isatty_r
+ .text          0x0000000008002d30        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x0000000008002d30       0x5c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+                0x0000000008002d30                _lseek_r
+ .text          0x0000000008002d8c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .text._read_r  0x0000000008002d8c       0x5c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+                0x0000000008002d8c                _read_r
+ .text          0x0000000008002de8      0x12c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+                0x0000000008002e54                __divsi3
+                0x0000000008002ea8                __modsi3
+                0x0000000008002f04                __udivsi3
+                0x0000000008002f0c                __umodsi3
+ .text          0x0000000008002f14      0x120 ../Haozi_bsp//libhal_bsp.a(alt_close.o)
+                0x0000000008002f64                close
+ .text          0x0000000008003034       0x2c ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+ .text          0x0000000008003060        0x0 ../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+ .text          0x0000000008003060      0x100 ../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+                0x00000000080030b0                fstat
+ .text          0x0000000008003160       0xf4 ../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+                0x00000000080031b0                isatty
+ .text          0x0000000008003254       0xe4 ../Haozi_bsp//libhal_bsp.a(alt_load.o)
+                0x00000000080032b8                alt_load
+ .text          0x0000000008003338      0x124 ../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+                0x0000000008003388                lseek
+ .text          0x000000000800345c       0x78 ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+                0x000000000800345c                alt_main
+ .text          0x00000000080034d4       0x40 ../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+                0x00000000080034d4                __malloc_lock
+                0x00000000080034f4                __malloc_unlock
+ .text          0x0000000008003514      0x14c ../Haozi_bsp//libhal_bsp.a(alt_read.o)
+                0x0000000008003564                read
+ .text          0x0000000008003660       0x60 ../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+                0x0000000008003660                alt_release_fd
+ .text          0x00000000080036c0       0xb0 ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+                0x00000000080036c0                sbrk
+ .text          0x0000000008003770      0x148 ../Haozi_bsp//libhal_bsp.a(alt_write.o)
+                0x00000000080037c0                write
+ .text          0x00000000080038b8      0x100 ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+                0x00000000080038f0                alt_irq_init
+                0x0000000008003924                alt_sys_init
+ .text          0x00000000080039b8      0x164 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x00000000080039b8                altera_avalon_jtag_uart_read_fd
+                0x0000000008003a18                altera_avalon_jtag_uart_write_fd
+                0x0000000008003a78                altera_avalon_jtag_uart_close_fd
+                0x0000000008003ac8                altera_avalon_jtag_uart_ioctl_fd
+ .text          0x0000000008003b1c      0x3d8 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                0x0000000008003b1c                altera_avalon_jtag_uart_init
+                0x0000000008003e8c                altera_avalon_jtag_uart_close
+ .text          0x0000000008003ef4       0xec ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                0x0000000008003ef4                altera_avalon_jtag_uart_ioctl
+ .text          0x0000000008003fe0      0x20c ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x0000000008003fe0                altera_avalon_jtag_uart_read
+ .text          0x00000000080041ec      0x218 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x00000000080041ec                altera_avalon_jtag_uart_write
+ .text          0x0000000008004404      0xe70 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+                0x0000000008004ba8                altera_avalon_lcd_16207_write
+                0x000000000800513c                altera_avalon_lcd_16207_init
+ .text          0x0000000008005274       0x60 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+                0x0000000008005274                altera_avalon_lcd_16207_write_fd
+ .text          0x00000000080052d4       0xfc ../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+                0x0000000008005348                alt_avalon_timer_sc_init
+ .text          0x00000000080053d0      0x110 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+                0x00000000080053d0                altera_avalon_uart_read_fd
+                0x0000000008005430                altera_avalon_uart_write_fd
+                0x0000000008005490                altera_avalon_uart_close_fd
+ .text          0x00000000080054e0      0x3b8 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+                0x00000000080054e0                altera_avalon_uart_init
+                0x0000000008005844                altera_avalon_uart_close
+ .text          0x0000000008005898      0x22c ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+                0x00000000080058e8                altera_avalon_uart_read
+ .text          0x0000000008005ac4      0x1fc ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+                0x0000000008005b14                altera_avalon_uart_write
+ .text          0x0000000008005cc0      0x140 ../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+                0x0000000008005cc0                alt_alarm_start
+ .text          0x0000000008005e00       0x44 ../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000008005e00                alt_dcache_flush_all
+ .text          0x0000000008005e44       0xf4 ../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+                0x0000000008005e94                alt_dev_llist_insert
+ .text          0x0000000008005f38       0x5c ../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+                0x0000000008005f38                _do_ctors
+ .text          0x0000000008005f94       0x5c ../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+                0x0000000008005f94                _do_dtors
+ .text          0x0000000008005ff0       0x30 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000000008005ff0                alt_icache_flush_all
+ .text          0x0000000008006020      0x1e0 ../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+                0x0000000008006020                alt_ic_isr_register
+                0x0000000008006070                alt_ic_irq_enable
+                0x0000000008006110                alt_ic_irq_disable
+                0x00000000080061b4                alt_ic_irq_enabled
+ .text          0x0000000008006200       0xf0 ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+                0x0000000008006200                alt_iic_isr_register
+ .text          0x00000000080062f0      0x138 ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+                0x00000000080063b0                alt_io_redirect
+ .text          0x0000000008006428        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .text          0x0000000008006428        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .text          0x0000000008006428        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .text          0x0000000008006428      0x274 ../Haozi_bsp//libhal_bsp.a(alt_open.o)
+                0x0000000008006544                open
+ .text          0x000000000800669c      0x19c ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+                0x000000000800669c                alt_alarm_stop
+                0x0000000008006734                alt_tick
+ .text          0x0000000008006838       0x30 ../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+                0x0000000008006838                usleep
+ .text          0x0000000008006868       0x20 ../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000000008006868                altera_nios2_gen2_irq_init
+ .text          0x0000000008006888      0x158 ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                0x0000000008006888                alt_busy_sleep
+ .text          0x00000000080069e0        0x0 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .text          0x00000000080069e0       0x90 ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+                0x00000000080069e0                alt_find_dev
+ .text          0x0000000008006a70      0x114 ../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+                0x0000000008006a70                alt_find_file
+ .text          0x0000000008006b84       0xb4 ../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+                0x0000000008006b84                alt_get_fd
+ .text          0x0000000008006c38       0x8c ../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+                0x0000000008006c38                alt_icache_flush
+ .text          0x0000000008006cc4       0x9c ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x0000000008006cc4                alt_exception_cause_generated_bad_addr
+ .text          0x0000000008006d60        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .text.atexit   0x0000000008006d60       0x14 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+                0x0000000008006d60                atexit
+ .text          0x0000000008006d74        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+ .text          0x0000000008006d74        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .text.exit     0x0000000008006d74       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+                0x0000000008006d74                exit
+ .text          0x0000000008006dac        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .text.memcmp   0x0000000008006dac       0x7c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+                0x0000000008006dac                memcmp
+ .text          0x0000000008006e28        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x0000000008006e28      0x114 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+                0x0000000008006e28                __register_exitproc
+ .text          0x0000000008006f3c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000008006f3c      0x194 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+                0x0000000008006f3c                __call_exitprocs
+ .text          0x00000000080070d0       0x34 ../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+                0x00000000080070d0                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                0x0000000008007104                PROVIDE (__etext, ABSOLUTE (.))
+                0x0000000008007104                PROVIDE (_etext, ABSOLUTE (.))
+                0x0000000008007104                PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0000000008007104                . = ALIGN (0x4)
+                0x0000000008007104                PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                0x0000000008007104                PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                0x0000000008007104                PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                0x0000000008007104                PROVIDE (__init_array_end, ABSOLUTE (.))
+                0x0000000008007104                PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                0x0000000008007104                PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                0x0000000008007104                PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+                0x0000000008007104                PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                0x0000000008007104                PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                0x0000000008007104                PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x0000000008007104                . = ALIGN (0x4)
+
+.rodata         0x0000000008007104      0x2dc
+                0x0000000008007104                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x0000000008007104                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000008007104       0x14 obj/default/hello_world.o
+ .rodata.str1.4
+                0x0000000008007118        0x2 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+                                          0x4 (size before relaxing)
+ *fill*         0x000000000800711a        0x2 
+ .rodata.str1.4
+                0x000000000800711c        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+ .rodata        0x0000000008007120        0xc ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+ .rodata        0x000000000800712c        0xc ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+ .rodata        0x0000000008007138       0x24 ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+ .rodata._ctype_
+                0x000000000800715c      0x101 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+                0x000000000800715c                _ctype_
+ .rodata._ctype_b
+                0x000000000800725d      0x180 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+ *(.rodata1)
+                0x00000000080073e0                . = ALIGN (0x4)
+ *fill*         0x00000000080073dd        0x3 
+                0x00000000080073e0                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x0000000008007104                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x00000000080073e0     0x1c58 load address 0x0000000008009038
+                0x00000000080073e0                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x00000000080073e0                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x00000000080073e0        0x0 ../Haozi_bsp//obj/HAL/src/crt0.o
+ .data          0x00000000080073e0        0x0 obj/default/hello_world.o
+ .data          0x00000000080073e0        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .data          0x00000000080073e0        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .data          0x00000000080073e0        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .data          0x00000000080073e0        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000080073e0      0x424 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+ .data          0x0000000008007804        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x0000000008007804      0x408 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+                0x0000000008007804                __malloc_av_
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .data          0x0000000008007c0c        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+ .data          0x0000000008007c0c        0x0 ../Haozi_bsp//libhal_bsp.a(alt_close.o)
+ .data          0x0000000008007c0c      0x1a8 ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+                0x0000000008007c0c                alt_dev_null
+                0x0000000008007c34                alt_fd_list
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_load.o)
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_read.o)
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+ .data          0x0000000008007db4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_write.o)
+ .data          0x0000000008007db4     0x1244 ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_open.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .data          0x0000000008008ff8        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .data          0x0000000008008ff8        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+ .data          0x0000000008008ff8        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .data          0x0000000008008ff8        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .data          0x0000000008008ff8        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .data          0x0000000008008ff8        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000008008ff8        0x0 ../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+                0x0000000008010ff8                _gp = ABSOLUTE ((. + 0x8000))
+                0x0000000008010ff8                PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata._global_impure_ptr
+                0x0000000008008ff8        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+                0x0000000008008ff8                _global_impure_ptr
+ .sdata._impure_ptr
+                0x0000000008008ffc        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+                0x0000000008008ffc                _impure_ptr
+ .sdata.__malloc_sbrk_base
+                0x0000000008009000        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+                0x0000000008009000                __malloc_sbrk_base
+ .sdata.__malloc_trim_threshold
+                0x0000000008009004        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+                0x0000000008009004                __malloc_trim_threshold
+ .sdata         0x0000000008009008       0x14 ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+                0x0000000008009008                alt_fs_list
+                0x0000000008009010                alt_dev_list
+                0x0000000008009018                alt_max_fd
+ .sdata         0x000000000800901c        0x4 ../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+                0x000000000800901c                alt_errno
+ .sdata         0x0000000008009020        0x4 ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+ .sdata         0x0000000008009024        0x4 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+ .sdata         0x0000000008009028        0x4 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+                0x0000000008009028                alt_priority_mask
+ .sdata         0x000000000800902c        0x8 ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+                0x000000000800902c                alt_alarm_list
+ .sdata.__ctype_ptr__
+                0x0000000008009034        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+                0x0000000008009034                __ctype_ptr__
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000000008009038                . = ALIGN (0x4)
+                0x0000000008009038                _edata = ABSOLUTE (.)
+                0x0000000008009038                PROVIDE (edata, ABSOLUTE (.))
+                0x0000000008009038                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x0000000008009038                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x000000000800ac90      0x154
+                0x000000000800ac90                __bss_start = ABSOLUTE (.)
+                0x000000000800ac90                PROVIDE (__sbss_start, ABSOLUTE (.))
+                0x000000000800ac90                PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss.__malloc_max_total_mem
+                0x000000000800ac90        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+                0x000000000800ac90                __malloc_max_total_mem
+ .sbss.__malloc_max_sbrked_mem
+                0x000000000800ac94        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+                0x000000000800ac94                __malloc_max_sbrked_mem
+ .sbss.__malloc_top_pad
+                0x000000000800ac98        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+                0x000000000800ac98                __malloc_top_pad
+ .sbss          0x000000000800ac9c        0x4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+                0x000000000800ac9c                errno
+ .sbss          0x000000000800aca0        0xc ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+                0x000000000800aca0                alt_argc
+                0x000000000800aca4                alt_argv
+                0x000000000800aca8                alt_envp
+ .sbss          0x000000000800acac        0x4 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+                0x000000000800acac                alt_irq_active
+ .sbss          0x000000000800acb0        0x8 ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+                0x000000000800acb0                _alt_tick_rate
+                0x000000000800acb4                _alt_nticks
+ .sbss          0x000000000800acb8        0x4 ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x000000000800acb8                alt_instruction_exception_handler
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                0x000000000800acbc                PROVIDE (__sbss_end, ABSOLUTE (.))
+                0x000000000800acbc                PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x000000000800acbc        0x0 ../Haozi_bsp//obj/HAL/src/crt0.o
+ .bss           0x000000000800acbc        0x0 obj/default/hello_world.o
+ .bss           0x000000000800acbc        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .bss           0x000000000800acbc        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .bss           0x000000000800acbc        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .bss           0x000000000800acbc        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+ .bss           0x000000000800acbc        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x000000000800acbc       0x28 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+                0x000000000800acbc                __malloc_current_mallinfo
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_close.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_load.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_read.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_write.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_open.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .bss           0x000000000800ace4        0x0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .bss           0x000000000800ace4        0x0 ../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+ COMMON         0x000000000800ace4      0x100 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+                0x000000000800ace4                alt_irq
+                0x000000000800ade4                . = ALIGN (0x4)
+                0x000000000800ade4                __bss_end = ABSOLUTE (.)
+
+.sdram          0x000000000800ade4        0x0
+                0x000000000800ade4                PROVIDE (_alt_partition_sdram_start, ABSOLUTE (.))
+ *(.sdram .sdram. sdram.*)
+                0x000000000800ade4                . = ALIGN (0x4)
+                0x000000000800ade4                PROVIDE (_alt_partition_sdram_end, ABSOLUTE (.))
+                0x000000000800ade4                _end = ABSOLUTE (.)
+                0x000000000800ade4                end = ABSOLUTE (.)
+                0x000000000800ade4                __alt_stack_base = ABSOLUTE (.)
+                0x000000000800ade4                PROVIDE (_alt_partition_sdram_load_addr, LOADADDR (.sdram))
+
+.sram           0x0000000010200000        0x0 load address 0x000000000800ade4
+                0x0000000010200000                PROVIDE (_alt_partition_sram_start, ABSOLUTE (.))
+ *(.sram .sram. sram.*)
+                0x0000000010200000                . = ALIGN (0x4)
+                0x0000000010200000                PROVIDE (_alt_partition_sram_end, ABSOLUTE (.))
+                0x000000000800ade4                PROVIDE (_alt_partition_sram_load_addr, LOADADDR (.sram))
+
+.onchip_memory  0x0000000010408240        0x0 load address 0x000000000800ade4
+                0x0000000010408240                PROVIDE (_alt_partition_onchip_memory_start, ABSOLUTE (.))
+ *(.onchip_memory .onchip_memory. onchip_memory.*)
+                0x0000000010408240                . = ALIGN (0x4)
+                0x0000000010408240                PROVIDE (_alt_partition_onchip_memory_end, ABSOLUTE (.))
+                0x000000000800ade4                PROVIDE (_alt_partition_onchip_memory_load_addr, LOADADDR (.onchip_memory))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x23
+ *(.comment)
+ .comment       0x0000000000000000       0x23 obj/default/hello_world.o
+                                         0x24 (size before relaxing)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_close.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_load.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_read.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_write.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_open.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x24 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x24 ../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0xb68
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 ../Haozi_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000028       0x20 obj/default/hello_world.o
+ .debug_aranges
+                0x0000000000000048       0x28 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .debug_aranges
+                0x0000000000000070       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000090       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x00000000000000b0       0x18 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000000c8       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x00000000000000e8       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_aranges
+                0x0000000000000108       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000128       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000148       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x0000000000000168       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x0000000000000188       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x00000000000001a8       0x30 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x00000000000001d8       0x88 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x0000000000000260       0x28 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x0000000000000288       0x28 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x00000000000002b0       0x18 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x00000000000002c8       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x00000000000002e8       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000308       0x40 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x0000000000000348       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .debug_aranges
+                0x0000000000000368       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .debug_aranges
+                0x0000000000000388       0x28 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .debug_aranges
+                0x00000000000003b0       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x00000000000003d0       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x00000000000003f0       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x0000000000000410       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .debug_aranges
+                0x0000000000000430       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x0000000000000450       0x20 ../Haozi_bsp//libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x0000000000000470       0x20 ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x0000000000000490       0x18 ../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x00000000000004a8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+ .debug_aranges
+                0x00000000000004c8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+ .debug_aranges
+                0x00000000000004e8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x0000000000000508       0x20 ../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+ .debug_aranges
+                0x0000000000000528       0x20 ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x0000000000000548       0x20 ../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .debug_aranges
+                0x0000000000000568       0x20 ../Haozi_bsp//libhal_bsp.a(alt_read.o)
+ .debug_aranges
+                0x0000000000000588       0x20 ../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000000000005a8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+ .debug_aranges
+                0x00000000000005c8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_write.o)
+ .debug_aranges
+                0x00000000000005e8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x0000000000000608       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x0000000000000628       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_aranges
+                0x0000000000000648       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_aranges
+                0x0000000000000668       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x0000000000000688       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x00000000000006a8       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+ .debug_aranges
+                0x00000000000006c8       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+ .debug_aranges
+                0x00000000000006e8       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_aranges
+                0x0000000000000708       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_aranges
+                0x0000000000000728       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_aranges
+                0x0000000000000748       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_aranges
+                0x0000000000000768       0x20 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_aranges
+                0x0000000000000788       0x20 ../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+ .debug_aranges
+                0x00000000000007a8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x00000000000007c8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x00000000000007e8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .debug_aranges
+                0x0000000000000808       0x20 ../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .debug_aranges
+                0x0000000000000828       0x20 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x0000000000000848       0x20 ../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_aranges
+                0x0000000000000868       0x20 ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_aranges
+                0x0000000000000888       0x20 ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x00000000000008a8       0x30 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x00000000000008d8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x00000000000008f8       0x18 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_aranges
+                0x0000000000000910       0x20 ../Haozi_bsp//libhal_bsp.a(alt_open.o)
+ .debug_aranges
+                0x0000000000000930       0x20 ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+ .debug_aranges
+                0x0000000000000950       0x20 ../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_aranges
+                0x0000000000000970       0x20 ../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x0000000000000990       0x20 ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_aranges
+                0x00000000000009b0       0x38 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x00000000000009e8       0x20 ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x0000000000000a08       0x20 ../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x0000000000000a28       0x20 ../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x0000000000000a48       0x20 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .debug_aranges
+                0x0000000000000a68       0x28 ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_aranges
+                0x0000000000000a90       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000ab0       0x18 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+ .debug_aranges
+                0x0000000000000ac8       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000ae8       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000b08       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000b28       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000b48       0x20 ../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x182c5
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x67 ../Haozi_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000067       0x8f obj/default/hello_world.o
+ .debug_info    0x00000000000000f6      0xa21 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .debug_info    0x0000000000000b17       0xdb /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .debug_info    0x0000000000000bf2      0xc32 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .debug_info    0x0000000000001824      0x89f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+ .debug_info    0x00000000000020c3      0xd81 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_info    0x0000000000002e44      0x12b /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_info    0x0000000000002f6f      0x133 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_info    0x00000000000030a2      0x133 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_info    0x00000000000031d5      0xcac /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_info    0x0000000000003e81      0x8ff /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_info    0x0000000000004780      0x946 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .debug_info    0x00000000000050c6      0xac2 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .debug_info    0x0000000000005b88      0xda3 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .debug_info    0x000000000000692b      0xc12 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .debug_info    0x000000000000753d      0x9a9 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .debug_info    0x0000000000007ee6       0x83 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+ .debug_info    0x0000000000007f69      0xb04 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .debug_info    0x0000000000008a6d      0x11a /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .debug_info    0x0000000000008b87      0xb93 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .debug_info    0x000000000000971a      0x931 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .debug_info    0x000000000000a04b      0x8de /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .debug_info    0x000000000000a929      0xa33 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .debug_info    0x000000000000b35c      0xa61 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .debug_info    0x000000000000bdbd      0x8de /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .debug_info    0x000000000000c69b      0x91f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .debug_info    0x000000000000cfba      0x92a /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .debug_info    0x000000000000d8e4      0x234 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+ .debug_info    0x000000000000db18      0x31a ../Haozi_bsp//libhal_bsp.a(alt_close.o)
+ .debug_info    0x000000000000de32      0x495 ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_info    0x000000000000e2c7       0x9f ../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_info    0x000000000000e366      0x481 ../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+ .debug_info    0x000000000000e7e7      0x484 ../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+ .debug_info    0x000000000000ec6b      0x13e ../Haozi_bsp//libhal_bsp.a(alt_load.o)
+ .debug_info    0x000000000000eda9      0x34b ../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+ .debug_info    0x000000000000f0f4      0x12a ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+ .debug_info    0x000000000000f21e      0x8af ../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .debug_info    0x000000000000facd      0x4a9 ../Haozi_bsp//libhal_bsp.a(alt_read.o)
+ .debug_info    0x000000000000ff76      0x2b0 ../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x0000000000010226      0x1a5 ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+ .debug_info    0x00000000000103cb      0x4b0 ../Haozi_bsp//libhal_bsp.a(alt_write.o)
+ .debug_info    0x000000000001087b      0x71c ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000010f97      0x527 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x00000000000114be      0x3a1 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_info    0x000000000001185f      0x279 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_info    0x0000000000011ad8      0x342 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x0000000000011e1a      0x339 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x0000000000012153      0x6bb ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+ .debug_info    0x000000000001280e      0x4c5 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+ .debug_info    0x0000000000012cd3      0x21f ../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_info    0x0000000000012ef2      0x440 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_info    0x0000000000013332      0x32c ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_info    0x000000000001365e      0x312 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_info    0x0000000000013970      0x317 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_info    0x0000000000013c87      0x2c5 ../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+ .debug_info    0x0000000000013f4c       0x9e ../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x0000000000013fea      0x1a2 ../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x000000000001418c       0x83 ../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .debug_info    0x000000000001420f       0x83 ../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .debug_info    0x0000000000014292       0x8b ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x000000000001431d      0x349 ../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_info    0x0000000000014666      0x1e8 ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x000000000001484e      0x49e ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x0000000000014cec       0x70 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x0000000000014d5c      0x180 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x0000000000014edc       0x88 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x0000000000014f64      0x3b4 ../Haozi_bsp//libhal_bsp.a(alt_open.o)
+ .debug_info    0x0000000000015318      0x292 ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+ .debug_info    0x00000000000155aa       0xa9 ../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_info    0x0000000000015653       0x8b ../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x00000000000156de       0xd0 ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_info    0x00000000000157ae       0x76 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x0000000000015824      0x2e2 ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x0000000000015b06      0x2df ../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x0000000000015de5      0x309 ../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x00000000000160ee       0xd5 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .debug_info    0x00000000000161c3      0x1d8 ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_info    0x000000000001639b      0x10a /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_info    0x00000000000164a5       0x96 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+ .debug_info    0x000000000001653b      0x8ef /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .debug_info    0x0000000000016e2a      0x113 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .debug_info    0x0000000000016f3d      0x93f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_info    0x000000000001787c      0x964 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00000000000181e0       0xe5 ../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x0000000000000000     0x6a9f
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 ../Haozi_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012       0x42 obj/default/hello_world.o
+ .debug_abbrev  0x0000000000000054      0x244 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .debug_abbrev  0x0000000000000298       0x90 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000000328      0x256 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x000000000000057e      0x18f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x000000000000070d      0x2ad /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x00000000000009ba       0xab /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_abbrev  0x0000000000000a65       0x9c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000000b01       0x9c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000000b9d      0x25e /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x0000000000000dfb      0x20c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x0000000000001007      0x21a /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x0000000000001221      0x2a0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x00000000000014c1      0x350 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000000000001811      0x27b /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x0000000000001a8c      0x1d1 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x0000000000001c5d       0x37 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x0000000000001c94      0x215 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x0000000000001ea9       0xae /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000001f57      0x255 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x00000000000021ac      0x1ed /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .debug_abbrev  0x0000000000002399      0x1e8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .debug_abbrev  0x0000000000002581      0x2b9 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .debug_abbrev  0x000000000000283a      0x1f7 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .debug_abbrev  0x0000000000002a31      0x1e8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .debug_abbrev  0x0000000000002c19      0x1f7 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .debug_abbrev  0x0000000000002e10      0x1e8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .debug_abbrev  0x0000000000002ff8       0xd9 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x00000000000030d1      0x11f ../Haozi_bsp//libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x00000000000031f0       0xd9 ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x00000000000032c9       0x5a ../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000000000003323      0x11f ../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+ .debug_abbrev  0x0000000000003442      0x11f ../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+ .debug_abbrev  0x0000000000003561       0x9f ../Haozi_bsp//libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x0000000000003600      0x11f ../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+ .debug_abbrev  0x000000000000371f       0xba ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x00000000000037d9      0x1b4 ../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .debug_abbrev  0x000000000000398d      0x12e ../Haozi_bsp//libhal_bsp.a(alt_read.o)
+ .debug_abbrev  0x0000000000003abb       0xde ../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x0000000000003b99      0x112 ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+ .debug_abbrev  0x0000000000003cab      0x133 ../Haozi_bsp//libhal_bsp.a(alt_write.o)
+ .debug_abbrev  0x0000000000003dde      0x19f ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x0000000000003f7d      0x127 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x00000000000040a4      0x197 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_abbrev  0x000000000000423b      0x111 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_abbrev  0x000000000000434c      0x1ac ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x00000000000044f8      0x1a8 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x00000000000046a0      0x206 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+ .debug_abbrev  0x00000000000048a6      0x125 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+ .debug_abbrev  0x00000000000049cb      0x155 ../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_abbrev  0x0000000000004b20      0x109 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_abbrev  0x0000000000004c29      0x178 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_abbrev  0x0000000000004da1      0x183 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_abbrev  0x0000000000004f24      0x18a ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_abbrev  0x00000000000050ae      0x162 ../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+ .debug_abbrev  0x0000000000005210       0x5a ../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x000000000000526a      0x114 ../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x000000000000537e       0x79 ../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .debug_abbrev  0x00000000000053f7       0x79 ../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .debug_abbrev  0x0000000000005470       0x42 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x00000000000054b2      0x163 ../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x0000000000005615      0x169 ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x000000000000577e      0x114 ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x0000000000005892       0x12 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x00000000000058a4      0x122 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x00000000000059c6       0x40 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x0000000000005a06      0x148 ../Haozi_bsp//libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x0000000000005b4e      0x15a ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+ .debug_abbrev  0x0000000000005ca8       0x60 ../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_abbrev  0x0000000000005d08       0x42 ../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x0000000000005d4a       0x7e ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_abbrev  0x0000000000005dc8       0x12 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x0000000000005dda       0xf0 ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x0000000000005eca       0xf0 ../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x0000000000005fba      0x10d ../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x00000000000060c7       0x8c ../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .debug_abbrev  0x0000000000006153       0xd1 ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_abbrev  0x0000000000006224       0xb8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x00000000000062dc       0x5d /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+ .debug_abbrev  0x0000000000006339      0x1f5 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .debug_abbrev  0x000000000000652e       0x7f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00000000000065ad      0x21e /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00000000000067cb      0x22e /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00000000000069f9       0xa6 ../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x0000000000000000     0x7598
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x72 ../Haozi_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000072       0x40 obj/default/hello_world.o
+ .debug_line    0x00000000000000b2      0x22f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .debug_line    0x00000000000002e1      0x16c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .debug_line    0x000000000000044d      0x364 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .debug_line    0x00000000000007b1      0x15d /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+ .debug_line    0x000000000000090e      0x3fa /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_line    0x0000000000000d08      0x18b /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_line    0x0000000000000e93      0x182 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000001015      0x189 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_line    0x000000000000119e      0x2e9 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_line    0x0000000000001487      0x1e6 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_line    0x000000000000166d      0x263 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .debug_line    0x00000000000018d0      0x2e2 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .debug_line    0x0000000000001bb2      0x3b6 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .debug_line    0x0000000000001f68      0x2ec /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .debug_line    0x0000000000002254      0x238 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .debug_line    0x000000000000248c       0x5c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+ .debug_line    0x00000000000024e8      0x271 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .debug_line    0x0000000000002759      0x18c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .debug_line    0x00000000000028e5      0x267 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .debug_line    0x0000000000002b4c      0x1f3 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .debug_line    0x0000000000002d3f      0x1f3 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .debug_line    0x0000000000002f32      0x236 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .debug_line    0x0000000000003168      0x1fc /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .debug_line    0x0000000000003364      0x1f4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .debug_line    0x0000000000003558      0x1fe /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .debug_line    0x0000000000003756      0x1f2 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .debug_line    0x0000000000003948       0xc4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000000000003a0c      0x16e ../Haozi_bsp//libhal_bsp.a(alt_close.o)
+ .debug_line    0x0000000000003b7a      0x100 ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_line    0x0000000000003c7a       0x51 ../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+ .debug_line    0x0000000000003ccb      0x167 ../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+ .debug_line    0x0000000000003e32      0x16b ../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+ .debug_line    0x0000000000003f9d       0x8d ../Haozi_bsp//libhal_bsp.a(alt_load.o)
+ .debug_line    0x000000000000402a      0x16c ../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+ .debug_line    0x0000000000004196       0xa4 ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+ .debug_line    0x000000000000423a      0x131 ../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .debug_line    0x000000000000436b      0x1ed ../Haozi_bsp//libhal_bsp.a(alt_read.o)
+ .debug_line    0x0000000000004558       0xae ../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x0000000000004606       0xfb ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+ .debug_line    0x0000000000004701      0x1ec ../Haozi_bsp//libhal_bsp.a(alt_write.o)
+ .debug_line    0x00000000000048ed      0x1c5 ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x0000000000004ab2      0x12f ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x0000000000004be1      0x180 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_line    0x0000000000004d61      0x12e ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_line    0x0000000000004e8f      0x16a ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x0000000000004ff9      0x16a ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000000000005163      0x32f ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+ .debug_line    0x0000000000005492      0x119 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+ .debug_line    0x00000000000055ab       0xfd ../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_line    0x00000000000056a8       0xee ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_line    0x0000000000005796      0x18a ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_line    0x0000000000005920      0x17f ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_line    0x0000000000005a9f      0x166 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_line    0x0000000000005c05       0xfa ../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+ .debug_line    0x0000000000005cff       0x61 ../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000000000005d60       0xd0 ../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x0000000000005e30       0x59 ../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .debug_line    0x0000000000005e89       0x59 ../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .debug_line    0x0000000000005ee2       0x50 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x0000000000005f32       0xef ../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_line    0x0000000000006021       0xdb ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x00000000000060fc      0x13b ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x0000000000006237       0x6b ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x00000000000062a2       0xaa ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x000000000000634c       0x50 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x000000000000639c      0x12a ../Haozi_bsp//libhal_bsp.a(alt_open.o)
+ .debug_line    0x00000000000064c6       0xfe ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+ .debug_line    0x00000000000065c4       0xb5 ../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_line    0x0000000000006679       0x51 ../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x00000000000066ca       0xa0 ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_line    0x000000000000676a       0xb3 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x000000000000681d       0xb5 ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x00000000000068d2       0xd1 ../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x00000000000069a3       0xd5 ../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x0000000000006a78       0x81 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .debug_line    0x0000000000006af9       0xba ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_line    0x0000000000006bb3       0xe4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_line    0x0000000000006c97       0xc4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+ .debug_line    0x0000000000006d5b      0x1f9 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .debug_line    0x0000000000006f54      0x173 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .debug_line    0x00000000000070c7      0x222 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_line    0x00000000000072e9      0x23e /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000007527       0x71 ../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x0000000000000000     0x1a04
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x38 obj/default/hello_world.o
+ .debug_frame   0x0000000000000038       0x48 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .debug_frame   0x0000000000000080       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000000000000a0       0x7c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x000000000000011c       0x54 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000000170       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_frame   0x0000000000000190       0x30 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000000000001c0       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000000000001e0       0x70 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x0000000000000250       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000288       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x00000000000002c0       0x7c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .debug_frame   0x000000000000033c      0x15c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .debug_frame   0x0000000000000498       0x70 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000000000000508       0x90 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x0000000000000598       0x4c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x00000000000005e4       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000604       0xb4 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .debug_frame   0x00000000000006b8       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .debug_frame   0x00000000000006f0       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .debug_frame   0x0000000000000728       0x54 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .debug_frame   0x000000000000077c       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x00000000000007b4       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .debug_frame   0x00000000000007ec       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000000824       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .debug_frame   0x000000000000085c       0x8c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+ .debug_frame   0x00000000000008e8       0x60 ../Haozi_bsp//libhal_bsp.a(alt_close.o)
+ .debug_frame   0x0000000000000948       0x34 ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x000000000000097c       0x60 ../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+ .debug_frame   0x00000000000009dc       0x60 ../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+ .debug_frame   0x0000000000000a3c       0x5c ../Haozi_bsp//libhal_bsp.a(alt_load.o)
+ .debug_frame   0x0000000000000a98       0x60 ../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+ .debug_frame   0x0000000000000af8       0x2c ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+ .debug_frame   0x0000000000000b24       0x58 ../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+ .debug_frame   0x0000000000000b7c       0x60 ../Haozi_bsp//libhal_bsp.a(alt_read.o)
+ .debug_frame   0x0000000000000bdc       0x34 ../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x0000000000000c10       0x34 ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+ .debug_frame   0x0000000000000c44       0x60 ../Haozi_bsp//libhal_bsp.a(alt_write.o)
+ .debug_frame   0x0000000000000ca4       0x88 ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x0000000000000d2c       0xb0 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x0000000000000ddc       0xa4 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+ .debug_frame   0x0000000000000e80       0x34 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+ .debug_frame   0x0000000000000eb4       0x38 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x0000000000000eec       0x38 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x0000000000000f24      0x178 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+ .debug_frame   0x000000000000109c       0x38 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+ .debug_frame   0x00000000000010d4       0x60 ../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_frame   0x0000000000001134       0x88 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+ .debug_frame   0x00000000000011bc       0xcc ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+ .debug_frame   0x0000000000001288       0x60 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+ .debug_frame   0x00000000000012e8       0x60 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+ .debug_frame   0x0000000000001348       0x34 ../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+ .debug_frame   0x000000000000137c       0x34 ../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x00000000000013b0       0x60 ../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x0000000000001410       0x38 ../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+ .debug_frame   0x0000000000001448       0x38 ../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+ .debug_frame   0x0000000000001480       0x38 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x00000000000014b8       0xa4 ../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x000000000000155c       0x38 ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x0000000000001594       0x60 ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x00000000000015f4       0x38 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x000000000000162c       0x84 ../Haozi_bsp//libhal_bsp.a(alt_open.o)
+ .debug_frame   0x00000000000016b0       0x5c ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+ .debug_frame   0x000000000000170c       0x38 ../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+ .debug_frame   0x0000000000001744       0x34 ../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x0000000000001778       0x38 ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+ .debug_frame   0x00000000000017b0       0x38 ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000000000017e8       0x38 ../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x0000000000001820       0x34 ../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x0000000000001854       0x34 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+ .debug_frame   0x0000000000001888       0x5c ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_frame   0x00000000000018e4       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000001904       0x28 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .debug_frame   0x000000000000192c       0x20 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .debug_frame   0x000000000000194c       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000001984       0x54 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000000019d8       0x2c ../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x0000000000000000     0x2d36
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0xcb obj/default/hello_world.o
+                                        0x109 (size before relaxing)
+ .debug_str     0x00000000000000cb      0x4c6 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+                                        0x5dd (size before relaxing)
+ .debug_str     0x0000000000000591       0xcc /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+                                        0x1d0 (size before relaxing)
+ .debug_str     0x000000000000065d       0xa1 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+                                        0x620 (size before relaxing)
+ .debug_str     0x00000000000006fe       0xdc /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-impure.o)
+                                        0x58e (size before relaxing)
+ .debug_str     0x00000000000007da      0x2b2 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+                                        0x79d (size before relaxing)
+ .debug_str     0x0000000000000a8c       0x4f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+                                        0x1d7 (size before relaxing)
+ .debug_str     0x0000000000000adb       0x61 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+                                        0x1e4 (size before relaxing)
+ .debug_str     0x0000000000000b3c       0x44 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+                                        0x1f0 (size before relaxing)
+ .debug_str     0x0000000000000b80       0x4e /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+                                        0x66f (size before relaxing)
+ .debug_str     0x0000000000000bce       0x42 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+                                        0x584 (size before relaxing)
+ .debug_str     0x0000000000000c10       0x5e /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+                                        0x5ad (size before relaxing)
+ .debug_str     0x0000000000000c6e       0x69 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+                                        0x5ee (size before relaxing)
+ .debug_str     0x0000000000000cd7      0x116 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+                                        0x6a8 (size before relaxing)
+ .debug_str     0x0000000000000ded       0x34 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+                                        0x6e7 (size before relaxing)
+ .debug_str     0x0000000000000e21       0x47 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+                                        0x593 (size before relaxing)
+ .debug_str     0x0000000000000e68       0x3c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-int_errno.o)
+                                        0x1b6 (size before relaxing)
+ .debug_str     0x0000000000000ea4      0x121 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+                                        0x690 (size before relaxing)
+ .debug_str     0x0000000000000fc5       0x41 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+                                        0x1d1 (size before relaxing)
+ .debug_str     0x0000000000001006       0x98 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+                                        0x5e9 (size before relaxing)
+ .debug_str     0x000000000000109e       0x39 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+                                        0x588 (size before relaxing)
+ .debug_str     0x00000000000010d7       0x39 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+                                        0x578 (size before relaxing)
+ .debug_str     0x0000000000001110       0x4f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+                                        0x5db (size before relaxing)
+ .debug_str     0x000000000000115f       0x45 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+                                        0x664 (size before relaxing)
+ .debug_str     0x00000000000011a4       0x41 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+                                        0x57b (size before relaxing)
+ .debug_str     0x00000000000011e5       0x3f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+                                        0x585 (size before relaxing)
+ .debug_str     0x0000000000001224       0x38 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+                                        0x585 (size before relaxing)
+ .debug_str     0x000000000000125c      0x16c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+                                        0x1b7 (size before relaxing)
+ .debug_str     0x00000000000013c8       0xe4 ../Haozi_bsp//libhal_bsp.a(alt_close.o)
+                                        0x1e4 (size before relaxing)
+ .debug_str     0x00000000000014ac       0x50 ../Haozi_bsp//libhal_bsp.a(alt_dev.o)
+                                        0x2de (size before relaxing)
+ .debug_str     0x00000000000014fc       0x14 ../Haozi_bsp//libhal_bsp.a(alt_errno.o)
+                                        0x11e (size before relaxing)
+ .debug_str     0x0000000000001510       0x14 ../Haozi_bsp//libhal_bsp.a(alt_fstat.o)
+                                        0x2c5 (size before relaxing)
+ .debug_str     0x0000000000001524       0x15 ../Haozi_bsp//libhal_bsp.a(alt_isatty.o)
+                                        0x2cd (size before relaxing)
+ .debug_str     0x0000000000001539       0xf1 ../Haozi_bsp//libhal_bsp.a(alt_load.o)
+                                        0x1eb (size before relaxing)
+ .debug_str     0x000000000000162a       0x14 ../Haozi_bsp//libhal_bsp.a(alt_lseek.o)
+                                        0x1ea (size before relaxing)
+ .debug_str     0x000000000000163e       0x44 ../Haozi_bsp//libhal_bsp.a(alt_main.o)
+                                        0x176 (size before relaxing)
+ .debug_str     0x0000000000001682       0x1a ../Haozi_bsp//libhal_bsp.a(alt_malloc_lock.o)
+                                        0x4e8 (size before relaxing)
+ .debug_str     0x000000000000169c       0x13 ../Haozi_bsp//libhal_bsp.a(alt_read.o)
+                                        0x2d0 (size before relaxing)
+ .debug_str     0x00000000000016af       0x28 ../Haozi_bsp//libhal_bsp.a(alt_release_fd.o)
+                                        0x1b8 (size before relaxing)
+ .debug_str     0x00000000000016d7       0x98 ../Haozi_bsp//libhal_bsp.a(alt_sbrk.o)
+                                        0x1ad (size before relaxing)
+ .debug_str     0x000000000000176f       0x14 ../Haozi_bsp//libhal_bsp.a(alt_write.o)
+                                        0x2d1 (size before relaxing)
+ .debug_str     0x0000000000001783      0x2cf ../Haozi_bsp//libhal_bsp.a(alt_sys_init.o)
+                                        0x4ce (size before relaxing)
+ .debug_str     0x0000000000001a52       0xb2 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                                        0x37d (size before relaxing)
+ .debug_str     0x0000000000001b04       0xd1 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_init.o)
+                                        0x311 (size before relaxing)
+ .debug_str     0x0000000000001bd5       0x4a ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_ioctl.o)
+                                        0x26c (size before relaxing)
+ .debug_str     0x0000000000001c1f       0x48 ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                        0x2c1 (size before relaxing)
+ .debug_str     0x0000000000001c67       0x4a ../Haozi_bsp//libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x2c2 (size before relaxing)
+ .debug_str     0x0000000000001cb1      0x1f9 ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207.o)
+                                        0x468 (size before relaxing)
+ .debug_str     0x0000000000001eaa       0x4a ../Haozi_bsp//libhal_bsp.a(altera_avalon_lcd_16207_fd.o)
+                                        0x331 (size before relaxing)
+ .debug_str     0x0000000000001ef4       0x6d ../Haozi_bsp//libhal_bsp.a(altera_avalon_timer_sc.o)
+                                        0x224 (size before relaxing)
+ .debug_str     0x0000000000001f61       0x77 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_fd.o)
+                                        0x2ce (size before relaxing)
+ .debug_str     0x0000000000001fd8       0xa7 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_init.o)
+                                        0x290 (size before relaxing)
+ .debug_str     0x000000000000207f       0x4f ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_read.o)
+                                        0x271 (size before relaxing)
+ .debug_str     0x00000000000020ce       0x49 ../Haozi_bsp//libhal_bsp.a(altera_avalon_uart_write.o)
+                                        0x265 (size before relaxing)
+ .debug_str     0x0000000000002117       0x59 ../Haozi_bsp//libhal_bsp.a(alt_alarm_start.o)
+                                        0x257 (size before relaxing)
+ .debug_str     0x0000000000002170       0x34 ../Haozi_bsp//libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x12e (size before relaxing)
+ .debug_str     0x00000000000021a4       0x34 ../Haozi_bsp//libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x1a5 (size before relaxing)
+ .debug_str     0x00000000000021d8       0x48 ../Haozi_bsp//libhal_bsp.a(alt_do_ctors.o)
+                                         0xb5 (size before relaxing)
+ .debug_str     0x0000000000002220       0x4c ../Haozi_bsp//libhal_bsp.a(alt_do_dtors.o)
+                                         0xb4 (size before relaxing)
+ .debug_str     0x000000000000226c       0x34 ../Haozi_bsp//libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x12e (size before relaxing)
+ .debug_str     0x00000000000022a0       0xbd ../Haozi_bsp//libhal_bsp.a(alt_iic.o)
+                                        0x217 (size before relaxing)
+ .debug_str     0x000000000000235d       0x4c ../Haozi_bsp//libhal_bsp.a(alt_iic_isr_register.o)
+                                        0x1c1 (size before relaxing)
+ .debug_str     0x00000000000023a9       0x56 ../Haozi_bsp//libhal_bsp.a(alt_io_redirect.o)
+                                        0x2ef (size before relaxing)
+ .debug_str     0x00000000000023ff       0x3a ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+                                        0x170 (size before relaxing)
+ .debug_str     0x0000000000002439       0x17 ../Haozi_bsp//libhal_bsp.a(alt_irq_vars.o)
+                                        0x11f (size before relaxing)
+ .debug_str     0x0000000000002450       0x29 ../Haozi_bsp//libhal_bsp.a(alt_open.o)
+                                        0x224 (size before relaxing)
+ .debug_str     0x0000000000002479       0x4a ../Haozi_bsp//libhal_bsp.a(alt_tick.o)
+                                        0x22b (size before relaxing)
+ .debug_str     0x00000000000024c3       0x27 ../Haozi_bsp//libhal_bsp.a(alt_usleep.o)
+                                        0x121 (size before relaxing)
+ .debug_str     0x00000000000024ea       0x3b ../Haozi_bsp//libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x135 (size before relaxing)
+ .debug_str     0x0000000000002525       0x42 ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                                        0x144 (size before relaxing)
+ .debug_str     0x0000000000002567       0x24 ../Haozi_bsp//libhal_bsp.a(alt_find_dev.o)
+                                        0x1c5 (size before relaxing)
+ .debug_str     0x000000000000258b       0x26 ../Haozi_bsp//libhal_bsp.a(alt_find_file.o)
+                                        0x1d3 (size before relaxing)
+ .debug_str     0x00000000000025b1       0x30 ../Haozi_bsp//libhal_bsp.a(alt_get_fd.o)
+                                        0x1f5 (size before relaxing)
+ .debug_str     0x00000000000025e1       0x2c ../Haozi_bsp//libhal_bsp.a(alt_icache_flush.o)
+                                        0x134 (size before relaxing)
+ .debug_str     0x000000000000260d      0x48b ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+                                        0x578 (size before relaxing)
+ .debug_str     0x0000000000002a98       0x7e /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+                                        0x1fa (size before relaxing)
+ .debug_str     0x0000000000002b16       0xce /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-ctype_.o)
+                                        0x148 (size before relaxing)
+ .debug_str     0x0000000000002be4       0x49 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+                                        0x597 (size before relaxing)
+ .debug_str     0x0000000000002c2d       0x41 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+                                        0x1bd (size before relaxing)
+ .debug_str     0x0000000000002c6e       0x3c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+                                        0x5d6 (size before relaxing)
+ .debug_str     0x0000000000002caa       0x62 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+                                        0x5bb (size before relaxing)
+ .debug_str     0x0000000000002d0c       0x2a ../Haozi_bsp//libhal_bsp.a(alt_exit.o)
+                                        0x12a (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x4730
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0xdf /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .debug_loc     0x00000000000000df       0x47 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .debug_loc     0x0000000000000126      0x5e6 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x000000000000070c      0xbad /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x00000000000012b9      0x19f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_loc     0x0000000000001458      0x2a2 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000000000016fa      0x34f /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_loc     0x0000000000001a49      0xd88 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_loc     0x00000000000027d1       0x58 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x0000000000002829       0xa2 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .debug_loc     0x00000000000028cb      0x36d /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .debug_loc     0x0000000000002c38      0x208 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .debug_loc     0x0000000000002e40      0x4cf /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .debug_loc     0x000000000000330f      0x25b /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .debug_loc     0x000000000000356a      0x132 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .debug_loc     0x000000000000369c      0x190 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .debug_loc     0x000000000000382c      0x319 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .debug_loc     0x0000000000003b45       0xb0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .debug_loc     0x0000000000003bf5       0x58 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .debug_loc     0x0000000000003c4d      0x199 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .debug_loc     0x0000000000003de6       0x84 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .debug_loc     0x0000000000003e6a       0x58 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .debug_loc     0x0000000000003ec2       0xb0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .debug_loc     0x0000000000003f72       0xb0 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .debug_loc     0x0000000000004022      0x273 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/libgcc.a(lib2-divmod.o)
+ .debug_loc     0x0000000000004295       0x2c /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_loc     0x00000000000042c1       0x1e /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .debug_loc     0x00000000000042df      0x126 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000000000004405      0x185 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_loc     0x000000000000458a      0x1a6 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x60
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x30 ../Haozi_bsp//obj/HAL/src/crt0.o
+ .debug_alt_sim_info
+                0x0000000000000030       0x30 ../Haozi_bsp//libhal_bsp.a(alt_busy_sleep.o)
+                0x0000000010000000                __alt_data_end = 0x10000000
+                0x0000000010000000                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                0x000000000800ade4                PROVIDE (__alt_stack_limit, __alt_stack_base)
+                0x000000000800ade4                PROVIDE (__alt_heap_start, end)
+                0x0000000010000000                PROVIDE (__alt_heap_limit, 0x10000000)
+OUTPUT(Haozi.elf elf32-littlenios2)
+
+.debug_ranges   0x0000000000000000      0x5d8
+ .debug_ranges  0x0000000000000000       0x20 ../Haozi_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000020       0x18 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-puts.o)
+ .debug_ranges  0x0000000000000038       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-strlen.o)
+ .debug_ranges  0x0000000000000048       0x30 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fvwrite.o)
+ .debug_ranges  0x0000000000000078       0x48 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-mallocr.o)
+ .debug_ranges  0x00000000000000c0       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memchr.o)
+ .debug_ranges  0x00000000000000d0       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcpy.o)
+ .debug_ranges  0x00000000000000e0       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memmove.o)
+ .debug_ranges  0x00000000000000f0      0x148 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-reallocr.o)
+ .debug_ranges  0x0000000000000238       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-sbrkr.o)
+ .debug_ranges  0x0000000000000248       0x40 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-wsetup.o)
+ .debug_ranges  0x0000000000000288       0x58 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fflush.o)
+ .debug_ranges  0x00000000000002e0       0xe8 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-findfp.o)
+ .debug_ranges  0x00000000000003c8       0x18 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-freer.o)
+ .debug_ranges  0x00000000000003e0       0x18 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fwalk.o)
+ .debug_ranges  0x00000000000003f8       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-makebuf.o)
+ .debug_ranges  0x0000000000000408       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memset.o)
+ .debug_ranges  0x0000000000000418       0x30 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-stdio.o)
+ .debug_ranges  0x0000000000000448       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-writer.o)
+ .debug_ranges  0x0000000000000458       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(closer.o)
+ .debug_ranges  0x0000000000000468       0x48 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fclose.o)
+ .debug_ranges  0x00000000000004b0       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-fstatr.o)
+ .debug_ranges  0x00000000000004c0       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-isattyr.o)
+ .debug_ranges  0x00000000000004d0       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-lseekr.o)
+ .debug_ranges  0x00000000000004e0       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-readr.o)
+ .debug_ranges  0x00000000000004f0       0x28 ../Haozi_bsp//libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x0000000000000518       0x10 ../Haozi_bsp//libhal_bsp.a(alt_irq_handler.o)
+ .debug_ranges  0x0000000000000528       0x30 ../Haozi_bsp//libhal_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x0000000000000558       0x18 ../Haozi_bsp//libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_ranges  0x0000000000000570       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-atexit.o)
+ .debug_ranges  0x0000000000000580       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-exit.o)
+ .debug_ranges  0x0000000000000590       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-memcmp.o)
+ .debug_ranges  0x00000000000005a0       0x10 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__atexit.o)
+ .debug_ranges  0x00000000000005b0       0x28 /home/quartus/altera/15.1/nios2eds/bin/gnu/H-x86_64-pc-linux-gnu/bin/../lib/gcc/nios2-elf/4.9.2/../../../../../H-x86_64-pc-linux-gnu/nios2-elf/lib/libc.a(lib_a-__call_atexit.o)

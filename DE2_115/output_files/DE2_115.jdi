@@ -1,0 +1,24 @@
+<sld_project_info>
+  <project>
+    <hash md5_digest_80b="30887452ccef3a843da0"/>
+  </project>
+  <file_info>
+    <file device="EP4CE115F29C7" path="DE2_115.sof" usercode="0xFFFFFFFF"/>
+  </file_info>
+  <sld_infos>
+    <sld_info hpath="FFT:fft" name="fft">
+      <assignment_values>
+        <assignment_value text="QSYS_NAME FFT HAS_SOPCINFO 1 GENERATION_ID 1453537674"/>
+        <assignment_value text="QSYS_NAME FFT HAS_SOPCINFO 1 GENERATION_ID 1453549660"/>
+      </assignment_values>
+      <parameters/>
+    </sld_info>
+    <sld_info hpath="easy:core" name="core">
+      <assignment_values>
+        <assignment_value text="QSYS_NAME easy HAS_SOPCINFO 1 GENERATION_ID 1453545277"/>
+        <assignment_value text="QSYS_NAME easy HAS_SOPCINFO 1 GENERATION_ID 1453549645"/>
+      </assignment_values>
+      <parameters/>
+    </sld_info>
+  </sld_infos>
+</sld_project_info>

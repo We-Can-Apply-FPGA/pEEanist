@@ -1,0 +1,42 @@
+#include <unistd.h>
+#include <fcntl.h>
+#include "system.h"
+#include "altera_avalon_lcd_16207_regs.h"
+#include "altera_avalon_lcd_16207.h"
+#include <stdio.h>
+
+
+//#include "altera_up_avalon_character_lcd.h"
+
+//-----------------define-------------------------------//
+#define _LED
+typedef struct {
+	volatile unsigned long int DATA;
+	volatile unsigned long int DIRECTION;
+	volatile unsigned long int INTERRUPT_MASK;
+	volatile unsigned long int EDGE_CAPTURE;
+}PIO_T;
+
+#ifdef _LED
+#define LED ((PIO_T *)(PIO_LED_BASE))
+#endif
+
+
+int main(){
+	//FILE *lcd;
+	//lcd = fopen(LCD_16207_0_NAME, "w");
+
+	int fd = open(LCD_16207_0_NAME, O_WRONLY);
+	write(fd, "123", 3);
+	printf("%d\n", 123);
+	int cnt = 0;
+	while (1) {
+		LED->DATA = cnt;
+		usleep(10000);
+		LED->DATA = 0;
+		usleep(10000);
+		cnt ++;
+		cnt %= 128;
+	}
+	return 0;
+}

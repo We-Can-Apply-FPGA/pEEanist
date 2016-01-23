@@ -1,0 +1,42 @@
+14:58:48 **** Build of configuration Nios II for project Haozi ****
+make all 
+Info: Building ../Haozi_bsp/
+make --no-print-directory -C ../Haozi_bsp/
+[BSP build complete]
+[Haozi build complete]
+14:58:52 **** Incremental Build of configuration Nios II for project HelloBig ****
+make all 
+Info: Building ../HelloBig_bsp/
+make --no-print-directory -C ../HelloBig_bsp/
+[BSP build complete]
+[HelloBig build complete]
+15:01:11 **** Incremental Build of configuration Nios II for project HelloBig ****
+make all 
+Info: Building ../HelloBig_bsp/
+make --no-print-directory -C ../HelloBig_bsp/
+[BSP build complete]
+[HelloBig build complete]
+15:03:16 **** Build of configuration Nios II for project Haozi ****
+make all 
+Info: Building ../Haozi_bsp/
+make --no-print-directory -C ../Haozi_bsp/
+[BSP build complete]
+[Haozi build complete]
+15:03:17 **** Incremental Build of configuration Nios II for project Haozi ****
+make all 
+Info: Building ../Haozi_bsp/
+make --no-print-directory -C ../Haozi_bsp/
+[BSP build complete]
+[Haozi build complete]
+15:03:36 **** Build of configuration Nios II for project Haozi ****
+make all 
+Info: Building ../Haozi_bsp/
+make --no-print-directory -C ../Haozi_bsp/
+[BSP build complete]
+[Haozi build complete]
+15:03:36 **** Incremental Build of configuration Nios II for project Haozi ****
+make all 
+Info: Building ../Haozi_bsp/
+make --no-print-directory -C ../Haozi_bsp/
+[BSP build complete]
+[Haozi build complete]

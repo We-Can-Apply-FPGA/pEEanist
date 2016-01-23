@@ -1,0 +1,6 @@
+module Listen(
+	input i_bclk,
+	input i_rst_n,
+	input i_adclrck,
+	input i_adcdat,
+)

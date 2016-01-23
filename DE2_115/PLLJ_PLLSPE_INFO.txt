@@ -1,0 +1,5 @@
+PLL_Name	easy:core|easy_pll:pll|easy_pll_altpll_02o2:sd1|pll7
+PLLJITTER	30
+PLLSPEmax	84
+PLLSPEmin	-53
+

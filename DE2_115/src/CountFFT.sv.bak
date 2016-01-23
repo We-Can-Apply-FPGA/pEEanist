@@ -1,0 +1,25 @@
+module CountFFT(
+	input i_clk,
+	input i_rst_n,
+	
+	input i_valid,
+	
+	output [9:0] o_fft_cnt;
+);
+
+logic [9:0] fft_cnt_r, fft_cnt_w;
+
+always_comb begin
+	fft_cnt_w = fft_cnt_r;
+	if (sink_valid) fft_cnt_w = (fft_cnt_r + 1) % 1024;
+end
+
+always_ff @(negedge clk_down or negedge (reset_n & init_finish & listening)) begin
+	if (!(reset_n & init_finish & listening)) begin
+		fft_cnt_r <= 0;
+	end
+	else begin
+		fft_cnt_r <= fft_cnt_w;
+	end
+end
+endmodule

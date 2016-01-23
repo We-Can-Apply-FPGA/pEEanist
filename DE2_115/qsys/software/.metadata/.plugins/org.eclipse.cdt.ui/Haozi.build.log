@@ -1,0 +1,9 @@
+15:03:36 **** Incremental Build of configuration Nios II for project Haozi ****
+make all 
+Info: Building ../Haozi_bsp/
+make --no-print-directory -C ../Haozi_bsp/
+[BSP build complete]
+[Haozi build complete]
+
+15:03:36 Build Finished (took 71ms)
+

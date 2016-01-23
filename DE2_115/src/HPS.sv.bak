@@ -1,0 +1,6 @@
+module HPS (
+	input i_clk,
+	input [9:0] i_cnt,
+	input [31:0] i_square_add,
+	output [24:0] o_note
+);

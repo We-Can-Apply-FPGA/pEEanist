@@ -1,0 +1,32 @@
+#include <unistd.h>
+#include <stdio.h>
+#include "system.h"
+//#include "altera_up_avalon_character_lcd.h"
+
+
+#define _LED
+typedef struct {
+	volatile unsigned long int DATA;
+	volatile unsigned long int DIRECTION;
+	volatile unsigned long int INTERRUPT_MASK;
+	volatile unsigned long int EDGE_CAPTURE;
+}PIO_T;
+
+#ifdef _LED
+#define LED ((PIO_T *)(PIO_LED_BASE))
+#endif
+
+
+int main(){
+	int i;
+	while(1) {
+		for (i=0; i<4; i++) {
+			if (LED->DATA & (1<<i)) {
+				printf("%3d", i+1);
+			}
+		}
+		printf("\n");
+		usleep(50000);
+	}
+	return 0;
+}
