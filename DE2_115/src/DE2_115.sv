@@ -166,7 +166,7 @@ assign AUD_XCK = clk_12m;
 
 assign note = listening ? fft_note : ~GPI[24:0];
 assign GPO[24:0] = ~note;
-assign LEDR = {(real_2 + imag_2) >> 15};
+assign LEDR = {debug};
 assign LEDG = {sink_exp};
 assign listening = SW[0];
 
@@ -279,21 +279,21 @@ CountFFT count_fft(
 logic [31:0] real_2, imag_2;
 assign real_2 = ((sink_real/2) * (sink_real/2)) >> (sink_exp[3:0] * 2 - 14);
 assign imag_2 = ((sink_imag/2) * (sink_imag/2)) >> (sink_exp[3:0] * 2 - 14);
-
+logic [31:0] debug;
 HPS hps(
 	.i_clk(clk_down),
 	.i_rst_n(reset_n & init_finish & listening),
 	.i_cnt(fft_cnt),
 	.i_square_add(real_2 + imag_2),
 	.o_note(fft_note),
-	.o_power(fft_power)
+	.o_debug(debug)
 );
 /*
 Synthesizer synth (
 	.i_clk(AUD_BCLK),
 	.i_rst_n(reset_n & init_finish),
 	.i_note(note),
-	.i_synth_mode(SW[0]),
+	.i_synth_mode(SW[1]),
 	.o_sound(play_sound)
 );
 */
