@@ -1,4 +1,8 @@
 *.bak
+.qsys_edit
 DE2_115/db
 DE2_115/incremental_db
 DE2_115/simulation
+DE2_115/.metadata
+DE2_115/RemoteSystemsTempFiles
+DE2_115/greybox_tmp

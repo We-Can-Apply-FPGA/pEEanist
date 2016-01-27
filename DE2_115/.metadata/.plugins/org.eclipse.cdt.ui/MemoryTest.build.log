@@ -1,9 +1,0 @@
-11:12:42 **** Incremental Build of configuration Nios II for project MemoryTest ****
-make all 
-Info: Building ../MemoryTest_bsp/
-make --no-print-directory -C ../MemoryTest_bsp/
-[BSP build complete]
-[MemoryTest build complete]
-
-11:12:42 Build Finished (took 133ms)
-
