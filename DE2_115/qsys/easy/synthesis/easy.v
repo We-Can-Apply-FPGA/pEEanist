@@ -4,11 +4,19 @@
 
 `timescale 1 ps / 1 ps
 module easy (
-		input  wire  clk_clk,       //       clk.clk
-		output wire  clk_100k_clk,  //  clk_100k.clk
-		output wire  clk_12m_clk,   //   clk_12m.clk
-		input  wire  reset_reset_n, //     reset.reset_n
-		output wire  sdram_clk_clk  // sdram_clk.clk
+		input  wire        clk_clk,                      //                   clk.clk
+		output wire        clk_100k_clk,                 //              clk_100k.clk
+		output wire        clk_12m_clk,                  //               clk_12m.clk
+		input  wire        pll_areset_conduit_export,    //    pll_areset_conduit.export
+		output wire        pll_locked_conduit_export,    //    pll_locked_conduit.export
+		output wire        pll_phasedone_conduit_export, // pll_phasedone_conduit.export
+		input  wire        pll_pll_slave_read,           //         pll_pll_slave.read
+		input  wire        pll_pll_slave_write,          //                      .write
+		input  wire [1:0]  pll_pll_slave_address,        //                      .address
+		output wire [31:0] pll_pll_slave_readdata,       //                      .readdata
+		input  wire [31:0] pll_pll_slave_writedata,      //                      .writedata
+		input  wire        reset_reset_n,                //                 reset.reset_n
+		output wire        sdram_clk_clk                 //             sdram_clk.clk
 	);
 
 	wire    rst_controller_reset_out_reset; // rst_controller:reset_out -> pll:reset
@@ -16,18 +24,18 @@ module easy (
 	easy_pll pll (
 		.clk       (clk_clk),                        //       inclk_interface.clk
 		.reset     (rst_controller_reset_out_reset), // inclk_interface_reset.reset
-		.read      (),                               //             pll_slave.read
-		.write     (),                               //                      .write
-		.address   (),                               //                      .address
-		.readdata  (),                               //                      .readdata
-		.writedata (),                               //                      .writedata
+		.read      (pll_pll_slave_read),             //             pll_slave.read
+		.write     (pll_pll_slave_write),            //                      .write
+		.address   (pll_pll_slave_address),          //                      .address
+		.readdata  (pll_pll_slave_readdata),         //                      .readdata
+		.writedata (pll_pll_slave_writedata),        //                      .writedata
 		.c0        (),                               //                    c0.clk
 		.c1        (sdram_clk_clk),                  //                    c1.clk
 		.c2        (clk_12m_clk),                    //                    c2.clk
 		.c3        (clk_100k_clk),                   //                    c3.clk
-		.areset    (),                               //        areset_conduit.export
-		.locked    (),                               //        locked_conduit.export
-		.phasedone ()                                //     phasedone_conduit.export
+		.areset    (pll_areset_conduit_export),      //        areset_conduit.export
+		.locked    (pll_locked_conduit_export),      //        locked_conduit.export
+		.phasedone (pll_phasedone_conduit_export)    //     phasedone_conduit.export
 	);
 
 	altera_reset_controller #(

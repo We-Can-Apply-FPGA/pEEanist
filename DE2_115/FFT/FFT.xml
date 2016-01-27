@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <deploy
- date="2016.01.23.16:27:54"
+ date="2016.01.27.01:27:28"
  outputDirectory="/home/quartus/nios/DE2_115/FFT/">
  <perimeter>
   <parameter
@@ -89,13 +89,13 @@
  </perimeter>
  <entity
    path=""
-   parameterizationKey="FFT:1.0:AUTO_CLK_CLOCK_DOMAIN=-1,AUTO_CLK_CLOCK_RATE=-1,AUTO_CLK_RESET_DOMAIN=-1,AUTO_DEVICE=EP4CE115F29C7,AUTO_DEVICE_FAMILY=Cyclone IV E,AUTO_DEVICE_SPEEDGRADE=7,AUTO_GENERATION_ID=1453537674,AUTO_UNIQUE_ID=(altera_fft_ii:15.1:CALC_LATENCY=1024,THROUGHPUT_LATENCY=1024,data_flow=Streaming,data_rep=Block Floating Point,design_env=NATIVE,direction=Bi-directional,dsp_resource_opt=false,engine_arch=Quad Output,hard_fp=false,in_order=Natural,in_width=16,in_width_derived=16,length=1024,num_engines=1,num_engines_derived=1,out_order=Natural,out_width=29,out_width_derived=16,selected_device_family=Cyclone IV E,twid_width=16,twid_width_derived=16)"
+   parameterizationKey="FFT:1.0:AUTO_CLK_CLOCK_DOMAIN=-1,AUTO_CLK_CLOCK_RATE=-1,AUTO_CLK_RESET_DOMAIN=-1,AUTO_DEVICE=EP4CE115F29C7,AUTO_DEVICE_FAMILY=Cyclone IV E,AUTO_DEVICE_SPEEDGRADE=7,AUTO_GENERATION_ID=1453829247,AUTO_UNIQUE_ID=(altera_fft_ii:15.1:CALC_LATENCY=2048,THROUGHPUT_LATENCY=2048,data_flow=Streaming,data_rep=Block Floating Point,design_env=NATIVE,direction=Bi-directional,dsp_resource_opt=false,engine_arch=Quad Output,hard_fp=false,in_order=Natural,in_width=16,in_width_derived=16,length=2048,num_engines=1,num_engines_derived=2,out_order=Natural,out_width=32,out_width_derived=16,selected_device_family=Cyclone IV E,twid_width=16,twid_width_derived=16)"
    instancePathKey="FFT"
    kind="FFT"
    version="1.0"
    name="FFT">
   <parameter name="AUTO_CLK_CLOCK_RATE" value="-1" />
-  <parameter name="AUTO_GENERATION_ID" value="1453537674" />
+  <parameter name="AUTO_GENERATION_ID" value="1453829247" />
   <parameter name="AUTO_DEVICE" value="EP4CE115F29C7" />
   <parameter name="AUTO_DEVICE_FAMILY" value="Cyclone IV E" />
   <parameter name="AUTO_CLK_RESET_DOMAIN" value="-1" />
@@ -107,27 +107,27 @@
   </generatedFiles>
   <childGeneratedFiles>
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_1n1024cos.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_2n2048cos.hex"
        type="HEX"
        attributes="" />
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_2n1024cos.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_1n2048sin.hex"
        type="HEX"
        attributes="" />
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_1n1024sin.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_2n2048sin.hex"
        type="HEX"
        attributes="" />
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_2n1024sin.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_3n2048cos.hex"
        type="HEX"
        attributes="" />
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_3n1024cos.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_3n2048sin.hex"
        type="HEX"
        attributes="" />
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_3n1024sin.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_1n2048cos.hex"
        type="HEX"
        attributes="" />
    <file
@@ -559,27 +559,27 @@
  </entity>
  <entity
    path="submodules/"
-   parameterizationKey="altera_fft_ii:15.1:CALC_LATENCY=1024,THROUGHPUT_LATENCY=1024,data_flow=Streaming,data_rep=Block Floating Point,design_env=NATIVE,direction=Bi-directional,dsp_resource_opt=false,engine_arch=Quad Output,hard_fp=false,in_order=Natural,in_width=16,in_width_derived=16,length=1024,num_engines=1,num_engines_derived=1,out_order=Natural,out_width=29,out_width_derived=16,selected_device_family=Cyclone IV E,twid_width=16,twid_width_derived=16"
+   parameterizationKey="altera_fft_ii:15.1:CALC_LATENCY=2048,THROUGHPUT_LATENCY=2048,data_flow=Streaming,data_rep=Block Floating Point,design_env=NATIVE,direction=Bi-directional,dsp_resource_opt=false,engine_arch=Quad Output,hard_fp=false,in_order=Natural,in_width=16,in_width_derived=16,length=2048,num_engines=1,num_engines_derived=2,out_order=Natural,out_width=32,out_width_derived=16,selected_device_family=Cyclone IV E,twid_width=16,twid_width_derived=16"
    instancePathKey="FFT:.:fft_ii_0"
    kind="altera_fft_ii"
    version="15.1"
    name="FFT_fft_ii_0">
-  <parameter name="THROUGHPUT_LATENCY" value="1024" />
+  <parameter name="THROUGHPUT_LATENCY" value="2048" />
   <parameter name="in_width_derived" value="16" />
   <parameter name="in_order" value="Natural" />
-  <parameter name="num_engines_derived" value="1" />
+  <parameter name="num_engines_derived" value="2" />
   <parameter name="twid_width_derived" value="16" />
-  <parameter name="length" value="1024" />
+  <parameter name="length" value="2048" />
   <parameter name="out_order" value="Natural" />
   <parameter name="selected_device_family" value="Cyclone IV E" />
   <parameter name="dsp_resource_opt" value="false" />
-  <parameter name="CALC_LATENCY" value="1024" />
+  <parameter name="CALC_LATENCY" value="2048" />
   <parameter name="design_env" value="NATIVE" />
   <parameter name="data_rep" value="Block Floating Point" />
   <parameter name="in_width" value="16" />
   <parameter name="engine_arch" value="Quad Output" />
   <parameter name="data_flow" value="Streaming" />
-  <parameter name="out_width" value="29" />
+  <parameter name="out_width" value="32" />
   <parameter name="num_engines" value="1" />
   <parameter name="out_width_derived" value="16" />
   <parameter name="hard_fp" value="false" />
@@ -587,27 +587,27 @@
   <parameter name="direction" value="Bi-directional" />
   <generatedFiles>
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_1n1024cos.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_2n2048cos.hex"
        type="HEX"
        attributes="" />
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_2n1024cos.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_1n2048sin.hex"
        type="HEX"
        attributes="" />
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_1n1024sin.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_2n2048sin.hex"
        type="HEX"
        attributes="" />
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_2n1024sin.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_3n2048cos.hex"
        type="HEX"
        attributes="" />
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_3n1024cos.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_3n2048sin.hex"
        type="HEX"
        attributes="" />
    <file
-       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_3n1024sin.hex"
+       path="/home/quartus/nios/DE2_115/FFT/synthesis/submodules/FFT_fft_ii_0_1n2048cos.hex"
        type="HEX"
        attributes="" />
    <file

@@ -14,47 +14,12 @@ module ToFFT(
 logic[9:0] cnt_r,cnt_w;
 
 
-localparam TOT_DAT = 1024;
+localparam TOT_DAT = 2048;
 
 assign o_source_valid = i_reset_n;
 assign o_source_eop = ((cnt_r == (TOT_DAT-1)) && i_reset_n);
 assign o_source_sop = (cnt_r == 0 && i_reset_n);
-/*
-state == 0 : IDLE <not ready>
-state == 1 : START <count to 0>
-state == 2 : sendig data (not 1024)
-state == 3 : sending data (send eop)
-*/
-/*case(state_r)
-		S_IDLE:begin
-			if(i_source_ready) state_w = S_START;
-			else state_w = S_IDLE;
-			cnt_w = 0;
-		end
-		S_START:begin
-			cnt_w = 0;
-			state_w = S_BUSY;
-		end
-		S_BUSY:begin
-			if(cnt_r == TOT_DAT - ) begin
-				state_w = S_END;
-				cnt_w = 0;
-			end
-			else begin
-				cnt_w = cnt_r + 1 ;
-				state_w = S_BUSY;
-			end
-		end
-		S_END:begin
-			if(i_source_ready == 1)begin
-				cnt_w = 0;
-				state_w = S_BUSY;
-			end
-			else begin
-				state_w = S_IDLE;
-			end
-		end
-	endcase*/
+
 always_comb begin
 	if(i_source_ready) cnt_w = (cnt_r + 1) % TOT_DAT;
 	else cnt_w = 0;

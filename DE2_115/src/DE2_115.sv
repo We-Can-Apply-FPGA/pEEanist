@@ -1,10 +1,5 @@
 module DE2_115(
 	input CLOCK_50,
-	input CLOCK2_50,
-	input CLOCK3_50,
-	input ENETCLK_25,
-	input SMA_CLKIN,
-	output SMA_CLKOUT,
 	output [8:0] LEDG,
 	output [17:0] LEDR,
 	input [3:0] KEY,
@@ -23,18 +18,6 @@ module DE2_115(
 	output LCD_ON,
 	output LCD_RS,
 	output LCD_RW,
-	output UART_CTS,
-	input UART_RTS,
-	input UART_RXD,
-	output UART_TXD,
-	inout PS2_CLK,
-	inout PS2_DAT,
-	inout PS2_CLK2,
-	inout PS2_DAT2,
-	output SD_CLK,
-	inout SD_CMD,
-	inout [3:0] SD_DAT,
-	input SD_WP_N,
 	output [7:0] VGA_B,
 	output VGA_BLANK_N,
 	output VGA_CLK,
@@ -49,55 +32,8 @@ module DE2_115(
 	output AUD_DACDAT,
 	inout AUD_DACLRCK,
 	output AUD_XCK,
-	output EEP_I2C_SCLK,
-	inout EEP_I2C_SDAT,
 	output I2C_SCLK,
 	inout I2C_SDAT,
-	output ENET0_GTX_CLK,
-	input ENET0_INT_N,
-	output ENET0_MDC,
-	input ENET0_MDIO,
-	output ENET0_RST_N,
-	input ENET0_RX_CLK,
-	input ENET0_RX_COL,
-	input ENET0_RX_CRS,
-	input [3:0] ENET0_RX_DATA,
-	input ENET0_RX_DV,
-	input ENET0_RX_ER,
-	input ENET0_TX_CLK,
-	output [3:0] ENET0_TX_DATA,
-	output ENET0_TX_EN,
-	output ENET0_TX_ER,
-	input ENET0_LINK100,
-	output ENET1_GTX_CLK,
-	input ENET1_INT_N,
-	output ENET1_MDC,
-	input ENET1_MDIO,
-	output ENET1_RST_N,
-	input ENET1_RX_CLK,
-	input ENET1_RX_COL,
-	input ENET1_RX_CRS,
-	input [3:0] ENET1_RX_DATA,
-	input ENET1_RX_DV,
-	input ENET1_RX_ER,
-	input ENET1_TX_CLK,
-	output [3:0] ENET1_TX_DATA,
-	output ENET1_TX_EN,
-	output ENET1_TX_ER,
-	input ENET1_LINK100,
-	input TD_CLK27,
-	input [7:0] TD_DATA,
-	input TD_HS,
-	output TD_RESET_N,
-	input TD_VS,
-	inout [15:0] OTG_DATA,
-	output [1:0] OTG_ADDR,
-	output OTG_CS_N,
-	output OTG_WR_N,
-	output OTG_RD_N,
-	input OTG_INT,
-	output OTG_RST_N,
-	input IRDA_RXD,
 	output [12:0] DRAM_ADDR,
 	output [1:0] DRAM_BA,
 	output DRAM_CAS_N,
@@ -108,6 +44,7 @@ module DE2_115(
 	output [3:0] DRAM_DQM,
 	output DRAM_RAS_N,
 	output DRAM_WE_N,
+	inout [35:0] GPIO,
 	output [19:0] SRAM_ADDR,
 	output SRAM_CE_N,
 	inout [15:0] SRAM_DQ,
@@ -115,15 +52,6 @@ module DE2_115(
 	output SRAM_OE_N,
 	output SRAM_UB_N,
 	output SRAM_WE_N,
-	output [22:0] FL_ADDR,
-	output FL_CE_N,
-	inout [7:0] FL_DQ,
-	output FL_OE_N,
-	output FL_RST_N,
-	input FL_RY,
-	output FL_WE_N,
-	output FL_WP_N,
-	inout [35:0] GPIO,
 	input HSMC_CLKIN_P1,
 	input HSMC_CLKIN_P2,
 	input HSMC_CLKIN0,
@@ -136,75 +64,49 @@ module DE2_115(
 	inout [6:0] EX_IO
 );
 
-logic [24:0] GPI;
+logic [24:0] G, GPI;
 logic [24:0] GPO;
 
-//assign GPIO[35:18] = 'bz;
-//assign HSMC_RX_D_P[16:10] = 'bz;
-
 assign {HSMC_TX_D_P[10], HSMC_TX_D_P[11], HSMC_TX_D_P[12], HSMC_TX_D_P[13], HSMC_TX_D_P[14], HSMC_TX_D_P[15], HSMC_TX_D_P[16], GPIO[12], GPIO[14], GPIO[16], GPIO[10], GPIO[8], GPIO[6], GPIO[4], GPIO[2], GPIO[0], GPIO[17], GPIO[15], GPIO[13], GPIO[11], GPIO[9], GPIO[7], GPIO[5], GPIO[3], GPIO[1]} = GPO[24:0];
-
-assign GPI[24:0] = {HSMC_RX_D_P[10], HSMC_RX_D_P[11], HSMC_RX_D_P[12], HSMC_RX_D_P[13], HSMC_RX_D_P[14], HSMC_RX_D_P[15], HSMC_RX_D_P[16], GPIO[30], GPIO[32], GPIO[34], GPIO[28], GPIO[26], GPIO[24], GPIO[22], GPIO[20], GPIO[18], GPIO[35], GPIO[33], GPIO[31], GPIO[29], GPIO[27], GPIO[25], GPIO[23], GPIO[21], GPIO[19]};
-
-
-logic clk_100k, clk_12m, reset_n, clk_down;
-logic source_valid, source_ready, source_sop, source_eop;
-logic sink_valid, sink_sop, sink_eop;
-logic listening, init_finish;
-logic signed [15:0] sink_real, sink_imag;
-logic signed [15:0] play_sound, listen_sound;
-logic [24:0] note;
-logic [31:0] pc;
-logic [9:0] fft_cnt;
-logic [24:0] fft_note;
-logic [31:0] fft_power;
-logic [5:0] sink_exp;
+assign G[24:0] = {HSMC_RX_D_P[10], HSMC_RX_D_P[11], HSMC_RX_D_P[12], HSMC_RX_D_P[13], HSMC_RX_D_P[14], HSMC_RX_D_P[15], HSMC_RX_D_P[16], GPIO[30], GPIO[32], GPIO[34], GPIO[28], GPIO[26], GPIO[24], GPIO[22], GPIO[20], GPIO[18], GPIO[35], GPIO[33], GPIO[31], GPIO[29], GPIO[27], GPIO[25], GPIO[23], GPIO[21], GPIO[19]};
 assign LCD_ON = 0;
 assign LCD_BLON = 1;
 assign AUD_XCK = clk_12m;
 
-
-assign note = listening ? fft_note : ~GPI[24:0];
-assign GPO[24:0] = ~note;
-assign LEDR = {debug};
-assign LEDG = {sink_exp};
+logic clk_100k, clk_12m, reset_n;
+logic listening, teaching, init_finish;
+logic signed [15:0] play_sound, listen_sound;
+logic [24:0] fft_note, teaching_note, note;
 assign listening = SW[0];
+assign teaching = SW[1];
+
+assign note = listening ? fft_note : (teaching ? teaching_note : ~GPI[24:0]);
+assign GPO[24:0] = ~note;
+assign LEDG[7:0] = SW[2] ? debug[31:26] : debug[7:0];
+assign LEDR = SW[2] ? 0 : debug[25:8];
+
 
 easy core (
 	.clk_clk(CLOCK_50),
-	//.pc_export(pc),
 	.reset_reset_n(reset_n & init_finish),
 	.clk_100k_clk(clk_100k),
-	.clk_12m_clk(clk_12m),
-	
-	/*
-	.sram_DQ(SRAM_DQ),
-	.sram_ADDR(SRAM_ADDR),
-	.sram_LB_N(SRAM_LB_N),
-	.sram_UB_N(SRAM_UB_N),
-	.sram_CE_N(SRAM_CE_N),
-	.sram_OE_N(SRAM_OE_N),
-	.sram_WE_N(SRAM_WE_N),
-	.debug_export(real_2 + imag_2)
-	.lcd_data(LCD_DATA),
-	.lcd_E(LCD_EN),
-	.lcd_RS(LCD_RS),
-	.lcd_RW(LCD_RW),
-	.sdram_addr(DRAM_ADDR),
-	.sdram_ba(DRAM_BA),
-	.sdram_cas_n(DRAM_CAS_N),
-	.sdram_cke(DRAM_CKE),
-	.sdram_cs_n(DRAM_CS_N),
-	.sdram_dq(DRAM_DQ),
-	.sdram_dqm(DRAM_DQM),
-	.sdram_ras_n(DRAM_RAS_N),
-	.sdram_we_n(DRAM_WE_N),
-	.sdram_clk_clk(DRAM_CLK),
-	
-	.rs232_rxd(UART_RXD),
-	.rs232_txd(UART_TXD)
-	*/
+	.clk_12m_clk(clk_12m)
 );
+/*
+assign VGA_CLK   = ~CLOCK_50;
+
+VGA_SET vga_set(
+	.CLK_to_DAC(CLOCK_50),
+	.VGA_R(VGA_R),
+	.VGA_G(VGA_G),
+	.VGA_B(VGA_B),
+	.VGA_HS(VGA_HS),
+	.VGA_VS(VGA_VS),
+	.VGA_BLANK_N(VGA_BLANK_N),
+	.VGA_SYNC_N(VGA_SYNC_N),
+	.RST_N(KEY[0]),
+	.Ctrl(~GPI)
+);*/
 
 SetCodec init(
 	.i_clk(clk_100k),
@@ -221,8 +123,9 @@ Play play(
 	.i_daclrck(AUD_DACLRCK),
 	.o_dacdat(AUD_DACDAT),
 	
-	.i_sound(play_sound + listen_sound)
+	.i_sound(play_sound)
 );
+//assign AUD_DACDAT = AUD_ADCDAT;
 
 Listen listen(
 	.i_bclk(AUD_BCLK),
@@ -232,15 +135,17 @@ Listen listen(
 	.o_sound(listen_sound)
 );
 
-DownSample down_sample(
-	.i_clk(AUD_ADCLRCK),
-	.i_rst_n(reset_n & init_finish & listening),
-	.o_clk(clk_down)
+
+Teaching teach(
+	.i_clk(CLOCK_50),
+	.i_rst_n(reset_n & teaching),
+	.GPI(~GPI),
+	.o_note(teaching_note),
+	.o_ok(LEDG[8])
 );
 
-
 ToFFT tofft(
-	.i_clk(clk_down),
+	.i_clk(AUD_ADCLRCK),
 	.i_reset_n(reset_n & init_finish & listening),
 	.o_source_valid(source_valid),
 	.i_source_ready(source_ready),
@@ -248,9 +153,22 @@ ToFFT tofft(
 	.o_source_eop(source_eop)
 );
 
+logic [10:0] fft_cnt;
+
+CountFFT count_fft(
+	.i_clk(AUD_ADCLRCK),
+	.i_rst_n(reset_n & init_finish & listening),
+	.i_valid(sink_valid),
+	.o_fft_cnt(fft_cnt)
+);
+
+logic source_valid, source_ready, source_sop, source_eop;
+logic sink_valid, sink_ready, sink_sop, sink_eop;
+logic signed [15:0] source_real, sink_real, sink_imag;
+logic [5:0] sink_exp;
 
 FFT fft(
-	.clk(clk_down),
+	.clk(AUD_ADCLRCK),
 	.reset_n(reset_n & init_finish & listening),
 	.sink_valid(source_valid),
 	.sink_ready(source_ready),
@@ -268,38 +186,203 @@ FFT fft(
 	.source_real(sink_real),
 	.source_imag(sink_imag)
 );
+logic signed [63:0] real_2, imag_2;
+logic signed [31:0] real_2_imag_2;
+logic signed [31:0] debug, debug_hps, debug_r, debug_w, max;
 
-CountFFT count_fft(
-	.i_clk(clk_down),
-	.i_rst_n(reset_n & init_finish & listening),
-	.i_valid(sink_valid),
-	.o_fft_cnt(fft_cnt)
-);
+assign real_2 = sink_exp[5] ? ((sink_real*sink_real) >> (2*sink_exp[3:0])): 0;
+assign imag_2 = sink_exp[5] ? ((sink_imag*sink_imag) >> (2*sink_exp[3:0])) : 0;
+assign real_2_imag_2 = real_2 + imag_2;
+assign debug = debug_r;
 
-logic [31:0] real_2, imag_2;
-assign real_2 = ((sink_real/2) * (sink_real/2)) >> (sink_exp[3:0] * 2 - 14);
-assign imag_2 = ((sink_imag/2) * (sink_imag/2)) >> (sink_exp[3:0] * 2 - 14);
-logic [31:0] debug;
+always_comb begin
+	debug_w = debug_r;
+	if (!SW[17]) debug_w = real_2_imag_2;
+	else if (SW[17]) debug_w = max;
+end
+
+always_ff @(posedge CLOCK_50 or negedge reset_n) begin
+	if (!reset_n) begin
+		debug_r <= 0;
+	end
+	else begin
+		debug_r <= debug_w;
+	end
+end
+
 HPS hps(
-	.i_clk(clk_down),
+	.i_clk(AUD_ADCLRCK),
 	.i_rst_n(reset_n & init_finish & listening),
 	.i_cnt(fft_cnt),
-	.i_square_add(real_2 + imag_2),
+	.i_square_add(real_2_imag_2),
+	.i_multi(SW[16:3]),
 	.o_note(fft_note),
-	.o_debug(debug)
+	.o_debug(debug_hps),
+	.o_debug_max(max)
 );
+
 /*
 Synthesizer synth (
 	.i_clk(AUD_BCLK),
 	.i_rst_n(reset_n & init_finish),
-	.i_note(note),
-	.i_synth_mode(SW[1]),
+	.i_note((teaching ? ~GPI : note)),
+	.i_synth_mode(SW[17]),
 	.o_sound(play_sound)
 );
 */
+Debounce i0(
+	.i_in(G[0]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[0])
+);
+Debounce i1(
+	.i_in(G[1]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[1])
+);
+
+Debounce i2(
+	.i_in(G[2]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[2])
+);
+
+Debounce i3(
+	.i_in(G[3]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[3])
+);
+
+Debounce i4(
+	.i_in(G[4]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[4])
+);
+
+Debounce i5(
+	.i_in(G[5]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[5])
+);
+
+Debounce i6(
+	.i_in(G[6]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[6])
+);
+
+Debounce i7(
+	.i_in(G[7]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[7])
+);
+
+Debounce i8(
+	.i_in(G[8]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[8])
+);
+
+Debounce i9(
+	.i_in(G[9]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[9])
+);
+
+Debounce i10(
+	.i_in(G[10]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[10])
+);
+
+Debounce i11(
+	.i_in(G[11]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[11])
+);
+
+Debounce i12(
+	.i_in(G[12]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[12])
+);
+
+Debounce i13(
+	.i_in(G[13]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[13])
+);
+
+Debounce i14(
+	.i_in(G[14]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[14])
+);
+
+Debounce i15(
+	.i_in(G[15]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[15])
+);
+
+Debounce i16(
+	.i_in(G[16]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[16])
+);
+
+Debounce i17(
+	.i_in(G[17]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[17])
+);
+
+Debounce i18(
+	.i_in(G[18]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[18])
+);
+
+Debounce i19(
+	.i_in(G[19]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[19])
+);
+
+Debounce i20(
+	.i_in(G[20]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[20])
+);
+
+Debounce i21(
+	.i_in(G[21]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[21])
+);
+
+Debounce i22(
+	.i_in(G[22]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[22])
+);
+
+Debounce i23(
+	.i_in(G[23]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[23])
+);
+
+Debounce i24(
+	.i_in(G[24]),
+	.i_clk(CLOCK_50),
+	.o_debounced(GPI[24])
+);
+
 Debounce reset (
 	.i_in(KEY[0]),
-	.i_clk(AUD_BCLK),
+	.i_clk(CLOCK_50),
 	.o_debounced(reset_n)
 );
+
 endmodule

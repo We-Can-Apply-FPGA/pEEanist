@@ -9,7 +9,7 @@
    <enabled visible="0" />
   </columns>
  </systemtable>
- <library expandedCategories="Library,Project" />
- <window width="1855" height="1056" x="65" y="24" />
+ <library expandedCategories="Project,Library" />
+ <window width="1855" height="1028" x="65" y="52" />
  <generation path="_PROJECT_NAME_" block_symbol_file="1" />
 </preferences>

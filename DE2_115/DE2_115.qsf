@@ -1069,6 +1069,10 @@ set_global_assignment -name TIMEQUEST_MULTICORNER_ANALYSIS ON
 set_global_assignment -name NUM_PARALLEL_PROCESSORS ALL
 set_global_assignment -name VERILOG_INPUT_VERSION SYSTEMVERILOG_2005
 set_global_assignment -name VERILOG_SHOW_LMF_MAPPING_MESSAGES OFF
+set_global_assignment -name VERILOG_FILE src/VGA_SET.v
+set_global_assignment -name SYSTEMVERILOG_FILE src/VGA_DISPLAY.sv
+set_global_assignment -name SYSTEMVERILOG_FILE src/Teaching.sv
+set_global_assignment -name SYSTEMVERILOG_FILE src/TurnNote.sv
 set_global_assignment -name SYSTEMVERILOG_FILE src/GenTimbre.sv
 set_global_assignment -name SYSTEMVERILOG_FILE src/HPS.sv
 set_global_assignment -name QIP_FILE qsys/easy/synthesis/easy.qip
@@ -1085,6 +1089,10 @@ set_global_assignment -name CDF_FILE DE2_115.cdf
 set_global_assignment -name SYSTEMVERILOG_FILE src/Synthesizer.sv
 set_global_assignment -name SYSTEMVERILOG_FILE src/Listen.sv
 set_global_assignment -name SYSTEMVERILOG_FILE src/ToFFT.sv
+set_global_assignment -name SYSTEMVERILOG_FILE src/NoteSustain.sv
+set_global_assignment -name OPTIMIZATION_MODE "HIGH PERFORMANCE EFFORT"
+set_global_assignment -name ALLOW_REGISTER_MERGING ON
+set_global_assignment -name ALLOW_REGISTER_DUPLICATION ON
+set_global_assignment -name ALLOW_REGISTER_RETIMING ON
 set_global_assignment -name SYSTEMVERILOG_FILE src/CountFFT.sv
-set_global_assignment -name SYSTEMVERILOG_FILE src/DownSample.sv
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

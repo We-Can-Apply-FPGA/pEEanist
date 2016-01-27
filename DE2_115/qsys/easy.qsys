@@ -65,6 +65,22 @@
  <interface name="clk" internal="clk_0.clk_in" type="clock" dir="end" />
  <interface name="clk_100k" internal="pll.c3" type="clock" dir="start" />
  <interface name="clk_12m" internal="pll.c2" type="clock" dir="start" />
+ <interface
+   name="pll_areset_conduit"
+   internal="pll.areset_conduit"
+   type="conduit"
+   dir="end" />
+ <interface
+   name="pll_locked_conduit"
+   internal="pll.locked_conduit"
+   type="conduit"
+   dir="end" />
+ <interface
+   name="pll_phasedone_conduit"
+   internal="pll.phasedone_conduit"
+   type="conduit"
+   dir="end" />
+ <interface name="pll_pll_slave" internal="pll.pll_slave" type="avalon" dir="end" />
  <interface name="reset" internal="clk_0.clk_in_reset" type="reset" dir="end" />
  <interface name="sdram_clk" internal="pll.c1" type="clock" dir="start" />
  <module name="clk_0" kind="clock_source" version="15.1" enabled="1">

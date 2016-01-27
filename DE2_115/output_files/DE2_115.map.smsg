@@ -1,1 +1,6 @@
+Info (10281): Verilog HDL Declaration information at VGA_SET.v(6): object "VGA_HS" differs only in case from object "vga_hs" in the same scope File: /home/quartus/nios/DE2_115/src/VGA_SET.v Line: 6
+Info (10281): Verilog HDL Declaration information at VGA_SET.v(7): object "VGA_VS" differs only in case from object "vga_vs" in the same scope File: /home/quartus/nios/DE2_115/src/VGA_SET.v Line: 7
+Info (10281): Verilog HDL Declaration information at VGA_DISPLAY.sv(6): object "VGA_R" differs only in case from object "vga_r" in the same scope File: /home/quartus/nios/DE2_115/src/VGA_DISPLAY.sv Line: 6
+Info (10281): Verilog HDL Declaration information at VGA_DISPLAY.sv(7): object "VGA_G" differs only in case from object "vga_g" in the same scope File: /home/quartus/nios/DE2_115/src/VGA_DISPLAY.sv Line: 7
+Info (10281): Verilog HDL Declaration information at VGA_DISPLAY.sv(8): object "VGA_B" differs only in case from object "vga_b" in the same scope File: /home/quartus/nios/DE2_115/src/VGA_DISPLAY.sv Line: 8
 Warning (10268): Verilog HDL information at Listen.sv(59): always construct contains both blocking and non-blocking assignments File: /home/quartus/nios/DE2_115/src/Listen.sv Line: 59

@@ -1,57 +1,118 @@
 module TurnNote(
 	input i_clk,
 	input i_rst_n,
-	input[31:0] i_f_domain_idx,
-	output[4:0] o_note
+	input[5:0] i_f_idx,
+	output[4:0] o_note_idx,
+	output[1:0] o_note_avg
 );
 always_comb begin
-	case(i_f_domain_idx)
-		13: o_note = 0;
-		14: o_note = 0;
-		15: o_note = 1;
-		16: o_note = 2;
-		17: o_note = 3;
-		18: o_note = 4;
-		19: o_note = 5;
-		20: o_note = 6;
-		21: o_note = 7;
-		22: o_note = 8;
-		23: o_note = 9;
-		24: o_note = 9;
-		25: o_note = 10;
-		26: o_note = 10;
-		27: o_note = 11;
-		28: o_note = 12;
-		29: o_note = 12;
-		30: o_note = 13;
-		31: o_note = 13;
-		32: o_note = 14;
-		33: o_note = 15;
-		34: o_note = 15;
-		35: o_note = 16;
-		36: o_note = 16;
-		37: o_note = 17;
-		38: o_note = 17;
-		39: o_note = 18;
-		40: o_note = 18;
-		41: o_note = 19;
-		42: o_note = 19;
-		43: o_note = 19;
-		44: o_note = 20;
-		45: o_note = 20;
-		46: o_note = 21;
-		47: o_note = 21;
-		48: o_note = 21;
-		49: o_note = 22;
-		50: o_note = 22;
-		51: o_note = 22;
-		52: o_note = 23;
-		53: o_note = 23;
-		54: o_note = 23;
-		55: o_note = 24;
-		56: o_note = 24;
-		57: o_note = 24;
-		default:o_note=0;
-	endcase
+	if (i_f_idx < 13) begin
+		o_note_idx = 25;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 14) begin
+		o_note_idx = 0;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 15) begin
+		o_note_idx = 1;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 16) begin
+		o_note_idx = 2;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 17) begin
+		o_note_idx = 3;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 18) begin
+		o_note_idx = 4;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 19) begin
+		o_note_idx = 5;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 21) begin
+		o_note_idx = 6;
+		o_note_avg = 2;
+	end
+	else if (i_f_idx < 22) begin
+		o_note_idx = 7;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 23) begin
+		o_note_idx = 8;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 24) begin
+		o_note_idx = 9;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 26) begin
+		o_note_idx = 10;
+		o_note_avg = 2;
+	end
+	else if (i_f_idx < 27) begin
+		o_note_idx = 11;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 29) begin
+		o_note_idx = 12;
+		o_note_avg = 2;
+	end
+	else if (i_f_idx < 31) begin
+		o_note_idx = 13;
+		o_note_avg = 2;
+	end
+	else if (i_f_idx < 33) begin
+		o_note_idx = 14;
+		o_note_avg = 2;
+	end
+	else if (i_f_idx < 34) begin
+		o_note_idx = 15;
+		o_note_avg = 1;
+	end
+	else if (i_f_idx < 37) begin
+		o_note_idx = 16;
+		o_note_avg = 3;
+	end
+	else if (i_f_idx < 39) begin
+		o_note_idx = 17;
+		o_note_avg = 2;
+	end
+	else if (i_f_idx < 41) begin
+		o_note_idx = 18;
+		o_note_avg = 2;
+	end
+	else if (i_f_idx < 43) begin
+		o_note_idx = 19;
+		o_note_avg = 2;
+	end
+	else if (i_f_idx < 46) begin
+		o_note_idx = 20;
+		o_note_avg = 3;
+	end
+	else if (i_f_idx < 49) begin
+		o_note_idx = 21;
+		o_note_avg = 3;
+	end
+	else if (i_f_idx < 52) begin
+		o_note_idx = 22;
+		o_note_avg = 3;
+	end
+	else if (i_f_idx < 55) begin
+		o_note_idx = 23;
+		o_note_avg = 3;
+	end
+	else if (i_f_idx < 58) begin
+		o_note_idx = 24;
+		o_note_avg = 3;
+	end
+	else begin
+		o_note_idx = 26;
+		o_note_avg = 1;
+	end
 end
 endmodule

@@ -1,0 +1,4 @@
+*.bak
+DE2_115/db
+DE2_115/incremental_db
+DE2_115/simulation
